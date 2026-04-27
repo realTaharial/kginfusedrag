@@ -1,0 +1,785 @@
+question_type,question,answer,reasoning_path
+pattern_a_team_country,Which country is the team of ali osman renklibay in?,turkiye,ali osman renklibay --[member of sports team]--> Ceyhanspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ahmet suat özyazıcı in?,turkiye,ahmet suat özyazıcı --[member of sports team]--> Trabzon İdmanocağı --[country]--> turkiye
+pattern_a_team_country,Which country is the team of i̇brahim halil yaşar in?,turkiye,i̇brahim halil yaşar --[member of sports team]--> Kirikhanspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Güven Gürsoy in?,turkiye,Güven Gürsoy --[member of sports team]--> Kirikhanspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Bulut Basmaz in?,turkiye,Bulut Basmaz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of i̇lker erbay in?,turkiye,i̇lker erbay --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Yunus Altun in?,turkiye,Yunus Altun --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of deniz aslan in?,turkiye,deniz aslan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Murat Kayalı in?,turkiye,Murat Kayalı --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of gokhan emreciksin in?,turkiye,gokhan emreciksin --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of alper kalemci in?,turkiye,alper kalemci --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Murat Akyuez in?,turkiye,Murat Akyuez --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Erdinc Yavuz in?,turkiye,Erdinc Yavuz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Eren Aydin in?,turkiye,Eren Aydin --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Sinan Kaloglu in?,turkiye,Sinan Kaloglu --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of goksu turkdogan in?,turkiye,goksu turkdogan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ferhat Odabaşı in?,turkiye,Ferhat Odabaşı --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Yavuz Eraydin in?,turkiye,Yavuz Eraydin --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of erol erdal alkan in?,turkiye,erol erdal alkan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of hasan hakan hacıbektaşoğlu in?,turkiye,hasan hakan hacıbektaşoğlu --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of hakan söyler in?,turkiye,hakan söyler --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of halil akbunar in?,turkiye,halil akbunar --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of çağlayan alpsatan in?,turkiye,çağlayan alpsatan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of muhammed ali doğan in?,turkiye,muhammed ali doğan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Veysel Aksu in?,turkiye,Veysel Aksu --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Muhammet Akyildiz in?,turkiye,Muhammet Akyildiz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of kemal tokak in?,turkiye,kemal tokak --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Köksal Yedek in?,turkiye,Köksal Yedek --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of çağlar şahin akbaba in?,turkiye,çağlar şahin akbaba --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,"Which country is the team of Kilinc, David in?",turkiye,"Kilinc, David --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye"
+pattern_a_team_country,Which country is the team of Zeki Korkmaz in?,turkiye,Zeki Korkmaz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of mehmet al in?,turkiye,mehmet al --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Mehmet Turkmehmet in?,turkiye,Mehmet Turkmehmet --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of sözgelmez in?,turkiye,sözgelmez --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of miško mirkovic in?,turkiye,miško mirkovic --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Kulbilge in?,turkiye,Kulbilge --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of nurullah saglam in?,turkiye,nurullah saglam --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of oguzhan bahadir in?,turkiye,oguzhan bahadir --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Richard Kingson in?,turkiye,Richard Kingson --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Bahadir Ozturk in?,turkiye,Bahadir Ozturk --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,"Which country is the team of ağçay, sedat in?",turkiye,"ağçay, sedat --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye"
+pattern_a_team_country,Which country is the team of tolga özgen in?,turkiye,tolga özgen --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of zulkuf ozer in?,turkiye,zulkuf ozer --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Volkan Yilmaz in?,turkiye,Volkan Yilmaz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Yusuf Kurtulus in?,turkiye,Yusuf Kurtulus --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ali gutda gokdemir in?,turkiye,ali gutda gokdemir --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of cağlar birinci in?,turkiye,cağlar birinci --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Mehmet Nas in?,turkiye,Mehmet Nas --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of sedat bayrak in?,turkiye,sedat bayrak --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ersan Gueluem in?,turkiye,Ersan Gueluem --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Onder Cengel in?,turkiye,Onder Cengel --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Özgür Özkaya in?,turkiye,Özgür Özkaya --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of murat tosun in?,turkiye,murat tosun --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Mehmet Boztepe in?,turkiye,Mehmet Boztepe --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Aydin Karabulut in?,turkiye,Aydin Karabulut --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Umit Tutunci in?,turkiye,Umit Tutunci --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ibrahim kas in?,turkiye,ibrahim kas --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of İlker Avcıbay in?,turkiye,İlker Avcıbay --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Adem Alkasi in?,turkiye,Adem Alkasi --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ahmet Görkem Görk in?,turkiye,Ahmet Görkem Görk --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ahmet Şahin (footballer) in?,turkiye,Ahmet Şahin (footballer) --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of mustafa sarp in?,turkiye,mustafa sarp --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of rıdvan şimşek in?,turkiye,rıdvan şimşek --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Serdar Gürler in?,turkiye,Serdar Gürler --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ali olmez in?,turkiye,ali olmez --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of sezer badur in?,turkiye,sezer badur --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of bulent bal in?,turkiye,bulent bal --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of bülent ertuğrul in?,turkiye,bülent ertuğrul --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of erhan namlı in?,turkiye,erhan namlı --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Erman Öncü in?,turkiye,Erman Öncü --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ertugrul arslan in?,turkiye,ertugrul arslan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Feridun Sungur in?,turkiye,Feridun Sungur --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Arif Şahin in?,turkiye,Arif Şahin --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of sinan ozkan in?,turkiye,sinan ozkan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of atilla yıldırım in?,turkiye,atilla yıldırım --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of guven guneri in?,turkiye,guven guneri --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Serdar Ozkan in?,turkiye,Serdar Ozkan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of berk yıldız in?,turkiye,berk yıldız --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Hasan Ozer in?,turkiye,Hasan Ozer --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Kemal Ozdes in?,turkiye,Kemal Ozdes --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of erman kılıç in?,turkiye,erman kılıç --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Tanju Kayhan in?,turkiye,Tanju Kayhan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Korhan Ozturk in?,turkiye,Korhan Ozturk --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Taner Yalcin in?,turkiye,Taner Yalcin --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Muharrem Uz in?,turkiye,Muharrem Uz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of murat selvi in?,turkiye,murat selvi --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of noyan öz in?,turkiye,noyan öz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Oktay Kuday in?,turkiye,Oktay Kuday --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Deniz Yılmaz in?,turkiye,Deniz Yılmaz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of mehmet cakir in?,turkiye,mehmet cakir --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of atacan ozturk in?,turkiye,atacan ozturk --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Taner Demirbas in?,turkiye,Taner Demirbas --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of serdar ozbayraktar in?,turkiye,serdar ozbayraktar --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Onur Ayık in?,turkiye,Onur Ayık --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Batuhan Karadeniz in?,turkiye,Batuhan Karadeniz --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Eser Yağmur in?,turkiye,Eser Yağmur --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Murat Kalkan in?,turkiye,Murat Kalkan --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of kenan şahin (footballer) in?,turkiye,kenan şahin (footballer) --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Birol Hikmet in?,turkiye,Birol Hikmet --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Orkun Uşak in?,turkiye,Orkun Uşak --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of orhan ak in?,turkiye,orhan ak --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ismail isa mustafa in?,turkiye,ismail isa mustafa --[member of sports team]--> sanica boru elâzığspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of egemen korkmaz in?,turkiye,egemen korkmaz --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Enes Kubat in?,turkiye,Enes Kubat --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Efecan Karaca in?,turkiye,Efecan Karaca --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Uğur Demirok in?,turkiye,Uğur Demirok --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of emrah eren in?,turkiye,emrah eren --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Semih Kaya in?,turkiye,Semih Kaya --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ethem pülgir in?,turkiye,ethem pülgir --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of yaser yildiz in?,turkiye,yaser yildiz --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of fatih şen in?,turkiye,fatih şen --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Zafer Cevik in?,turkiye,Zafer Cevik --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of kaya tarakcı in?,turkiye,kaya tarakcı --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of uğur yılmaz in?,turkiye,uğur yılmaz --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of halil zeybek in?,turkiye,halil zeybek --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of mehmet gurkan ozturk in?,turkiye,mehmet gurkan ozturk --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of haydar yılmaz in?,turkiye,haydar yılmaz --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Cem Tosun in?,turkiye,Cem Tosun --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Fahri Tatan in?,turkiye,Fahri Tatan --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Mehmet Uslu in?,turkiye,Mehmet Uslu --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Muhammed Türkmen in?,turkiye,Muhammed Türkmen --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of olgay coskun in?,turkiye,olgay coskun --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of oğuz dağlaroğlu in?,turkiye,oğuz dağlaroğlu --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of emrullah güvenç in?,turkiye,emrullah güvenç --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of volkan demirel in?,turkiye,volkan demirel --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of serkan ozsoy in?,turkiye,serkan ozsoy --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ugur akdemir in?,turkiye,ugur akdemir --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of erman özgür in?,turkiye,erman özgür --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of erdem özgenç in?,turkiye,erdem özgenç --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of yasin celik in?,turkiye,yasin celik --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Murat Onur in?,turkiye,Murat Onur --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ozden onguen in?,turkiye,ozden onguen --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Abdullah Karmil in?,turkiye,Abdullah Karmil --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Iskender Alın in?,turkiye,Iskender Alın --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ayibogan in?,turkiye,Ayibogan --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of adem sari in?,turkiye,adem sari --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Erhan Senturk in?,turkiye,Erhan Senturk --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Cahit Paşa in?,turkiye,Cahit Paşa --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Kürşat Duymuş in?,turkiye,Kürşat Duymuş --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ender Alkan in?,turkiye,Ender Alkan --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of berkin kamil aslan in?,turkiye,berkin kamil aslan --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of olcay çetinkaya in?,turkiye,olcay çetinkaya --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of hasan vezir in?,turkiye,hasan vezir --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Atilla Koca in?,turkiye,Atilla Koca --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,"Which country is the team of Adın, Olcan in?",turkiye,"Adın, Olcan --[member of sports team]--> Kartalspor --[country]--> turkiye"
+pattern_a_team_country,Which country is the team of erhan kavak in?,turkiye,erhan kavak --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of rıza şen in?,turkiye,rıza şen --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Oguz Sabankay in?,turkiye,Oguz Sabankay --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of sezer sezgin in?,turkiye,sezer sezgin --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Tayfun Seven in?,turkiye,Tayfun Seven --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of umut kekilli in?,turkiye,umut kekilli --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ugur Erdogan in?,turkiye,Ugur Erdogan --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of yağız göktuğ taşbulak in?,turkiye,yağız göktuğ taşbulak --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Volkan Ekici in?,turkiye,Volkan Ekici --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,"Which country is the team of selçuk şahin (footballer, born 1983) in?",turkiye,"selçuk şahin (footballer, born 1983) --[member of sports team]--> Kartalspor --[country]--> turkiye"
+pattern_a_team_country,Which country is the team of yavuz özkan (footballer) in?,turkiye,yavuz özkan (footballer) --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of mahmut ertugrul taskiran in?,turkiye,mahmut ertugrul taskiran --[member of sports team]--> Kartalspor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Irfan Buz in?,turkiye,Irfan Buz --[member of sports team]--> i̇stanbul maltepespor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Senyil Mehmet Kutay in?,turkiye,Senyil Mehmet Kutay --[member of sports team]--> i̇stanbul maltepespor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Bülent Uzun in?,turkiye,Bülent Uzun --[member of sports team]--> i̇stanbul maltepespor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Aykut Akgün in?,turkiye,Aykut Akgün --[member of sports team]--> i̇stanbul maltepespor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Engin Baytar in?,turkiye,Engin Baytar --[member of sports team]--> i̇stanbul maltepespor --[country]--> turkiye
+pattern_a_team_country,Which country is the team of mehmet budak in?,turkiye,mehmet budak --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Fatih Ozturk Trabzonspor in?,turkiye,Fatih Ozturk Trabzonspor --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of emre toraman in?,turkiye,emre toraman --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Emrullah Salk in?,turkiye,Emrullah Salk --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of evren özyiğit in?,turkiye,evren özyiğit --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of kâmil altan in?,turkiye,kâmil altan --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of volkan arslan in?,turkiye,volkan arslan --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of mehmet aksu in?,turkiye,mehmet aksu --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Okan Salmaz in?,turkiye,Okan Salmaz --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of sezgin coskun in?,turkiye,sezgin coskun --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Soner Ornek in?,turkiye,Soner Ornek --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ali beratlıgil in?,turkiye,ali beratlıgil --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of murat gürbüzerol in?,turkiye,murat gürbüzerol --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Hasan Ali Durtuluk in?,turkiye,Hasan Ali Durtuluk --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of İlyas Kahraman in?,turkiye,İlyas Kahraman --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of güven cavus in?,turkiye,güven cavus --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ender Günlü in?,turkiye,Ender Günlü --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Ahmet Dursun in?,turkiye,Ahmet Dursun --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of ahmet saglam in?,turkiye,ahmet saglam --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of Furkan Aydin in?,turkiye,Furkan Aydin --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_a_team_country,Which country is the team of altan aksoy in?,turkiye,altan aksoy --[member of sports team]--> eyüp sk --[country]--> turkiye
+pattern_b_team_city,In which city is the team of egemen korkmaz headquartered?,istanbul (turkey),egemen korkmaz --[member of sports team]--> Kartalspor --[headquarters location]--> istanbul (turkey)
+pattern_b_team_city,In which city is the team of Enes Kubat headquartered?,istanbul (turkey),Enes Kubat --[member of sports team]--> Kartalspor --[headquarters location]--> istanbul (turkey)
+pattern_b_team_city,In which city is the team of mehmet budak headquartered?,istanbul (turkey),mehmet budak --[member of sports team]--> eyüp sk --[headquarters location]--> istanbul (turkey)
+pattern_b_team_city,In which city is the team of Fatih Ozturk Trabzonspor headquartered?,istanbul (turkey),Fatih Ozturk Trabzonspor --[member of sports team]--> eyüp sk --[headquarters location]--> istanbul (turkey)
+pattern_c_team_home_venue,What is the home venue of the team of Bulut Basmaz?,elazığ atatürk stadium,Bulut Basmaz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of i̇lker erbay?,elazığ atatürk stadium,i̇lker erbay --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Yunus Altun?,elazığ atatürk stadium,Yunus Altun --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of deniz aslan?,elazığ atatürk stadium,deniz aslan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Murat Kayalı?,elazığ atatürk stadium,Murat Kayalı --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of gokhan emreciksin?,elazığ atatürk stadium,gokhan emreciksin --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of alper kalemci?,elazığ atatürk stadium,alper kalemci --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Murat Akyuez?,elazığ atatürk stadium,Murat Akyuez --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Erdinc Yavuz?,elazığ atatürk stadium,Erdinc Yavuz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Eren Aydin?,elazığ atatürk stadium,Eren Aydin --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Sinan Kaloglu?,elazığ atatürk stadium,Sinan Kaloglu --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of goksu turkdogan?,elazığ atatürk stadium,goksu turkdogan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ferhat Odabaşı?,elazığ atatürk stadium,Ferhat Odabaşı --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Yavuz Eraydin?,elazığ atatürk stadium,Yavuz Eraydin --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of erol erdal alkan?,elazığ atatürk stadium,erol erdal alkan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of hasan hakan hacıbektaşoğlu?,elazığ atatürk stadium,hasan hakan hacıbektaşoğlu --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of hakan söyler?,elazığ atatürk stadium,hakan söyler --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of halil akbunar?,elazığ atatürk stadium,halil akbunar --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of çağlayan alpsatan?,elazığ atatürk stadium,çağlayan alpsatan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of muhammed ali doğan?,elazığ atatürk stadium,muhammed ali doğan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Veysel Aksu?,elazığ atatürk stadium,Veysel Aksu --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Muhammet Akyildiz?,elazığ atatürk stadium,Muhammet Akyildiz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of kemal tokak?,elazığ atatürk stadium,kemal tokak --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Köksal Yedek?,elazığ atatürk stadium,Köksal Yedek --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of çağlar şahin akbaba?,elazığ atatürk stadium,çağlar şahin akbaba --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,"What is the home venue of the team of Kilinc, David?",elazığ atatürk stadium,"Kilinc, David --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium"
+pattern_c_team_home_venue,What is the home venue of the team of Zeki Korkmaz?,elazığ atatürk stadium,Zeki Korkmaz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of mehmet al?,elazığ atatürk stadium,mehmet al --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Mehmet Turkmehmet?,elazığ atatürk stadium,Mehmet Turkmehmet --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of sözgelmez?,elazığ atatürk stadium,sözgelmez --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of miško mirkovic?,elazığ atatürk stadium,miško mirkovic --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Kulbilge?,elazığ atatürk stadium,Kulbilge --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of nurullah saglam?,elazığ atatürk stadium,nurullah saglam --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of oguzhan bahadir?,elazığ atatürk stadium,oguzhan bahadir --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Richard Kingson?,elazığ atatürk stadium,Richard Kingson --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Bahadir Ozturk?,elazığ atatürk stadium,Bahadir Ozturk --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,"What is the home venue of the team of ağçay, sedat?",elazığ atatürk stadium,"ağçay, sedat --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium"
+pattern_c_team_home_venue,What is the home venue of the team of tolga özgen?,elazığ atatürk stadium,tolga özgen --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of zulkuf ozer?,elazığ atatürk stadium,zulkuf ozer --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Volkan Yilmaz?,elazığ atatürk stadium,Volkan Yilmaz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Yusuf Kurtulus?,elazığ atatürk stadium,Yusuf Kurtulus --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of ali gutda gokdemir?,elazığ atatürk stadium,ali gutda gokdemir --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of cağlar birinci?,elazığ atatürk stadium,cağlar birinci --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Mehmet Nas?,elazığ atatürk stadium,Mehmet Nas --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of sedat bayrak?,elazığ atatürk stadium,sedat bayrak --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ersan Gueluem?,elazığ atatürk stadium,Ersan Gueluem --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Onder Cengel?,elazığ atatürk stadium,Onder Cengel --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Özgür Özkaya?,elazığ atatürk stadium,Özgür Özkaya --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of murat tosun?,elazığ atatürk stadium,murat tosun --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Mehmet Boztepe?,elazığ atatürk stadium,Mehmet Boztepe --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Aydin Karabulut?,elazığ atatürk stadium,Aydin Karabulut --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Umit Tutunci?,elazığ atatürk stadium,Umit Tutunci --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of ibrahim kas?,elazığ atatürk stadium,ibrahim kas --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of İlker Avcıbay?,elazığ atatürk stadium,İlker Avcıbay --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Adem Alkasi?,elazığ atatürk stadium,Adem Alkasi --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ahmet Görkem Görk?,elazığ atatürk stadium,Ahmet Görkem Görk --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ahmet Şahin (footballer)?,elazığ atatürk stadium,Ahmet Şahin (footballer) --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of mustafa sarp?,elazığ atatürk stadium,mustafa sarp --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of rıdvan şimşek?,elazığ atatürk stadium,rıdvan şimşek --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Serdar Gürler?,elazığ atatürk stadium,Serdar Gürler --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of ali olmez?,elazığ atatürk stadium,ali olmez --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of sezer badur?,elazığ atatürk stadium,sezer badur --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of bulent bal?,elazığ atatürk stadium,bulent bal --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of bülent ertuğrul?,elazığ atatürk stadium,bülent ertuğrul --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of erhan namlı?,elazığ atatürk stadium,erhan namlı --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Erman Öncü?,elazığ atatürk stadium,Erman Öncü --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of ertugrul arslan?,elazığ atatürk stadium,ertugrul arslan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Feridun Sungur?,elazığ atatürk stadium,Feridun Sungur --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Arif Şahin?,elazığ atatürk stadium,Arif Şahin --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of sinan ozkan?,elazığ atatürk stadium,sinan ozkan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of atilla yıldırım?,elazığ atatürk stadium,atilla yıldırım --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of guven guneri?,elazığ atatürk stadium,guven guneri --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Serdar Ozkan?,elazığ atatürk stadium,Serdar Ozkan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of berk yıldız?,elazığ atatürk stadium,berk yıldız --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Hasan Ozer?,elazığ atatürk stadium,Hasan Ozer --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Kemal Ozdes?,elazığ atatürk stadium,Kemal Ozdes --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of erman kılıç?,elazığ atatürk stadium,erman kılıç --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Tanju Kayhan?,elazığ atatürk stadium,Tanju Kayhan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Korhan Ozturk?,elazığ atatürk stadium,Korhan Ozturk --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Taner Yalcin?,elazığ atatürk stadium,Taner Yalcin --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Muharrem Uz?,elazığ atatürk stadium,Muharrem Uz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of murat selvi?,elazığ atatürk stadium,murat selvi --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of noyan öz?,elazığ atatürk stadium,noyan öz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Oktay Kuday?,elazığ atatürk stadium,Oktay Kuday --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Deniz Yılmaz?,elazığ atatürk stadium,Deniz Yılmaz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of mehmet cakir?,elazığ atatürk stadium,mehmet cakir --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of atacan ozturk?,elazığ atatürk stadium,atacan ozturk --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Taner Demirbas?,elazığ atatürk stadium,Taner Demirbas --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of serdar ozbayraktar?,elazığ atatürk stadium,serdar ozbayraktar --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Onur Ayık?,elazığ atatürk stadium,Onur Ayık --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Batuhan Karadeniz?,elazığ atatürk stadium,Batuhan Karadeniz --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Eser Yağmur?,elazığ atatürk stadium,Eser Yağmur --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Murat Kalkan?,elazığ atatürk stadium,Murat Kalkan --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of kenan şahin (footballer)?,elazığ atatürk stadium,kenan şahin (footballer) --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Birol Hikmet?,elazığ atatürk stadium,Birol Hikmet --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of Orkun Uşak?,elazığ atatürk stadium,Orkun Uşak --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of orhan ak?,elazığ atatürk stadium,orhan ak --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of ismail isa mustafa?,elazığ atatürk stadium,ismail isa mustafa --[member of sports team]--> sanica boru elâzığspor --[home venue]--> elazığ atatürk stadium
+pattern_c_team_home_venue,What is the home venue of the team of tarik altuntas?,Buca Arena,tarik altuntas --[member of sports team]--> balçova belediyespor --[home venue]--> Buca Arena
+pattern_c_team_home_venue,What is the home venue of the team of kadir ari?,Buca Arena,kadir ari --[member of sports team]--> balçova belediyespor --[home venue]--> Buca Arena
+pattern_c_team_home_venue,What is the home venue of the team of Bulut Basmaz?,Manisa 19 Mayis Stadium,Bulut Basmaz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of burak ozsarac?,Manisa 19 Mayis Stadium,burak ozsarac --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Bülent Cevahir?,Manisa 19 Mayis Stadium,Bülent Cevahir --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of gürol gündüz azer?,Manisa 19 Mayis Stadium,gürol gündüz azer --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of ömer közen?,Manisa 19 Mayis Stadium,ömer közen --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of cem sultan (footballer)?,Manisa 19 Mayis Stadium,cem sultan (footballer) --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of i̇hsan poyraz?,Manisa 19 Mayis Stadium,i̇hsan poyraz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Semavi Özgür?,Manisa 19 Mayis Stadium,Semavi Özgür --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of gokhan emreciksin?,Manisa 19 Mayis Stadium,gokhan emreciksin --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of umut sozen?,Manisa 19 Mayis Stadium,umut sozen --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Fevzi Tuncay?,Manisa 19 Mayis Stadium,Fevzi Tuncay --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of eray ataseven?,Manisa 19 Mayis Stadium,eray ataseven --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Eren Aydin?,Manisa 19 Mayis Stadium,Eren Aydin --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ergin Keles?,Manisa 19 Mayis Stadium,Ergin Keles --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of hikmet balioğlu?,Manisa 19 Mayis Stadium,hikmet balioğlu --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of yaser yildiz?,Manisa 19 Mayis Stadium,yaser yildiz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Sinan Kaloglu?,Manisa 19 Mayis Stadium,Sinan Kaloglu --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Fatih Yilmaz?,Manisa 19 Mayis Stadium,Fatih Yilmaz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of tolga doğantez?,Manisa 19 Mayis Stadium,tolga doğantez --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Onur Karakabak?,Manisa 19 Mayis Stadium,Onur Karakabak --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of oguzhan kayar?,Manisa 19 Mayis Stadium,oguzhan kayar --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of güven varol?,Manisa 19 Mayis Stadium,güven varol --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of hakan turan?,Manisa 19 Mayis Stadium,hakan turan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Mahmut Yilmaz?,Manisa 19 Mayis Stadium,Mahmut Yilmaz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of ahmet aras?,Manisa 19 Mayis Stadium,ahmet aras --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Canberk Dilaver?,Manisa 19 Mayis Stadium,Canberk Dilaver --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Huseyin Tok?,Manisa 19 Mayis Stadium,Huseyin Tok --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of huseyin yogurtcu?,Manisa 19 Mayis Stadium,huseyin yogurtcu --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of yilmaz ozlem?,Manisa 19 Mayis Stadium,yilmaz ozlem --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of metin aslan?,Manisa 19 Mayis Stadium,metin aslan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Kemal Okyay?,Manisa 19 Mayis Stadium,Kemal Okyay --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Vedat İnceefe?,Manisa 19 Mayis Stadium,Vedat İnceefe --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of burak yilmaz?,Manisa 19 Mayis Stadium,burak yilmaz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Murat Erdoğan?,Manisa 19 Mayis Stadium,Murat Erdoğan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Mustafa Asan?,Manisa 19 Mayis Stadium,Mustafa Asan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of okan koc?,Manisa 19 Mayis Stadium,okan koc --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of volkan babacan?,Manisa 19 Mayis Stadium,volkan babacan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of sanver goymen?,Manisa 19 Mayis Stadium,sanver goymen --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of serkan ozsoy?,Manisa 19 Mayis Stadium,serkan ozsoy --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ufukhan Bayraktar?,Manisa 19 Mayis Stadium,Ufukhan Bayraktar --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of murat gürbüzerol?,Manisa 19 Mayis Stadium,murat gürbüzerol --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Cagdas Atan?,Manisa 19 Mayis Stadium,Cagdas Atan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Mehmet Nas?,Manisa 19 Mayis Stadium,Mehmet Nas --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Hasan Ali Durtuluk?,Manisa 19 Mayis Stadium,Hasan Ali Durtuluk --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ersan Gueluem?,Manisa 19 Mayis Stadium,Ersan Gueluem --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of ömer aysan barış?,Manisa 19 Mayis Stadium,ömer aysan barış --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of hakan kadir balta?,Manisa 19 Mayis Stadium,hakan kadir balta --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Nizamettin Caliskan?,Manisa 19 Mayis Stadium,Nizamettin Caliskan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Abdulkadir Özgen?,Manisa 19 Mayis Stadium,Abdulkadir Özgen --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Muhammed Akaguenduez?,Manisa 19 Mayis Stadium,Muhammed Akaguenduez --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Koray Avci?,Manisa 19 Mayis Stadium,Koray Avci --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of murat tosun?,Manisa 19 Mayis Stadium,murat tosun --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Celaleddin Koçak?,Manisa 19 Mayis Stadium,Celaleddin Koçak --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Mustafa Kocabey?,Manisa 19 Mayis Stadium,Mustafa Kocabey --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of İlker Avcıbay?,Manisa 19 Mayis Stadium,İlker Avcıbay --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Tayfun Cora?,Manisa 19 Mayis Stadium,Tayfun Cora --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of adem buyuk?,Manisa 19 Mayis Stadium,adem buyuk --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Naci Şensoy?,Manisa 19 Mayis Stadium,Naci Şensoy --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of ahmet i̇lhan ozek?,Manisa 19 Mayis Stadium,ahmet i̇lhan ozek --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of mustafa sarp?,Manisa 19 Mayis Stadium,mustafa sarp --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Recep Biler?,Manisa 19 Mayis Stadium,Recep Biler --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of sezer badur?,Manisa 19 Mayis Stadium,sezer badur --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of turan arda?,Manisa 19 Mayis Stadium,turan arda --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of birol aksancak?,Manisa 19 Mayis Stadium,birol aksancak --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Bulent Ataman?,Manisa 19 Mayis Stadium,Bulent Ataman --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Coskun Birdal?,Manisa 19 Mayis Stadium,Coskun Birdal --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Yiğit İsmail Gökoğlan?,Manisa 19 Mayis Stadium,Yiğit İsmail Gökoğlan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of yigit incedemir?,Manisa 19 Mayis Stadium,yigit incedemir --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of bülent ertuğrul?,Manisa 19 Mayis Stadium,bülent ertuğrul --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Erman Güraçar?,Manisa 19 Mayis Stadium,Erman Güraçar --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of fatih egedik?,Manisa 19 Mayis Stadium,fatih egedik --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of sinan ozkan?,Manisa 19 Mayis Stadium,sinan ozkan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Savas Yilmaz?,Manisa 19 Mayis Stadium,Savas Yilmaz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Gurkan Ekren?,Manisa 19 Mayis Stadium,Gurkan Ekren --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of sezer öztürk?,Manisa 19 Mayis Stadium,sezer öztürk --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Hasan Ahmet Sari?,Manisa 19 Mayis Stadium,Hasan Ahmet Sari --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Metin Akan?,Manisa 19 Mayis Stadium,Metin Akan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Anil Karaer?,Manisa 19 Mayis Stadium,Anil Karaer --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of mertan caner ozturk?,Manisa 19 Mayis Stadium,mertan caner ozturk --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ferhat Coekmues?,Manisa 19 Mayis Stadium,Ferhat Coekmues --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of murat karakoc?,Manisa 19 Mayis Stadium,murat karakoc --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Oktay Kuday?,Manisa 19 Mayis Stadium,Oktay Kuday --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Ugur Inceman?,Manisa 19 Mayis Stadium,Ugur Inceman --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of yalçin ayhan?,Manisa 19 Mayis Stadium,yalçin ayhan --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Oguz Sabankay?,Manisa 19 Mayis Stadium,Oguz Sabankay --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Aydin Yilmaz?,Manisa 19 Mayis Stadium,Aydin Yilmaz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of bahattin köse?,Manisa 19 Mayis Stadium,bahattin köse --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of zafer şakar?,Manisa 19 Mayis Stadium,zafer şakar --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Barbaros Barut?,Manisa 19 Mayis Stadium,Barbaros Barut --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of ümit bozkurt?,Manisa 19 Mayis Stadium,ümit bozkurt --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of İsmail Köse?,Manisa 19 Mayis Stadium,İsmail Köse --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of izzet kaya?,Manisa 19 Mayis Stadium,izzet kaya --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Bayram Olgun?,Manisa 19 Mayis Stadium,Bayram Olgun --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of bekir yilmaz?,Manisa 19 Mayis Stadium,bekir yilmaz --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of benjamin fuchs?,Manisa 19 Mayis Stadium,benjamin fuchs --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of ersen martin?,Manisa 19 Mayis Stadium,ersen martin --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of Dilaver Güçlü?,Manisa 19 Mayis Stadium,Dilaver Güçlü --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of berk neziroğluları?,Manisa 19 Mayis Stadium,berk neziroğluları --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of cenk isler?,Manisa 19 Mayis Stadium,cenk isler --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_c_team_home_venue,What is the home venue of the team of sercan bilinç güvenışık?,Manisa 19 Mayis Stadium,sercan bilinç güvenışık --[member of sports team]--> Vestel Manisaspor --[home venue]--> Manisa 19 Mayis Stadium
+pattern_d_player_position_clean,What position does önder özen play?,Goalkeeper,önder özen --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position_clean,What position does çağlar şahin akbaba play?,Goalkeeper,çağlar şahin akbaba --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position_clean,What position does Irfan Can Egribayat play?,Goalkeeper,Irfan Can Egribayat --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position_clean,What position does erhan erentürk play?,Goalkeeper,erhan erentürk --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position_clean,What position does fikret yılmaz play?,Goalkeeper,fikret yılmaz --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position_clean,What position does Burhan Eser play?,Right-half,Burhan Eser --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Bülent Cevahir play?,Right-half,Bülent Cevahir --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Bülent Kocabey play?,Right-half,Bülent Kocabey --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does buelent uygun play?,Right-half,buelent uygun --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Can Bartu play?,Right-half,Can Bartu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Caner Ağca play?,Right-half,Caner Ağca --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does cansu yağ play?,Right-half,cansu yağ --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does musa büyük play?,Right-half,musa büyük --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Mehmet Yilmaz (defender) play?,Right-half,Mehmet Yilmaz (defender) --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does mehmet budak play?,Right-half,mehmet budak --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does mutlu topcu play?,Right-half,mutlu topcu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ömer közen play?,Right-half,ömer közen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Cem Can play?,Right-half,Cem Can --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does cem özdemir (footballer) play?,Right-half,cem özdemir (footballer) --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Cenk Ahmet Alkılıç play?,Right-half,Cenk Ahmet Alkılıç --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does civar cetin play?,Right-half,civar cetin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Timo Cecen play?,Right-half,Timo Cecen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Oguzhan Berber play?,Right-half,Oguzhan Berber --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Özkan Yildirim play?,Right-half,Özkan Yildirim --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Deniz Vural play?,Right-half,Deniz Vural --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Hakin Yakin play?,Right-half,Hakin Yakin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Efecan Karaca play?,Right-half,Efecan Karaca --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Murat Kayalı play?,Right-half,Murat Kayalı --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Samet Bulbul play?,Right-half,Samet Bulbul --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does yusuf kasal play?,Right-half,yusuf kasal --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Merthan Açıl play?,Right-half,Merthan Açıl --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does gokhan emreciksin play?,Right-half,gokhan emreciksin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Doğa Kaya play?,Right-half,Doğa Kaya --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does kivanc karakas play?,Right-half,kivanc karakas --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does dursun karatay play?,Right-half,dursun karatay --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does alper kalemci play?,Right-half,alper kalemci --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does umut sozen play?,Right-half,umut sozen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Efe Inanc play?,Right-half,Efe Inanc --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Metin Diyadin play?,Right-half,Metin Diyadin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does emrah bassan play?,Right-half,emrah bassan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Emre Nefiz play?,Right-half,Emre Nefiz --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does emre colak play?,Right-half,emre colak --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Ahmet Yılmaz Çalık play?,Right-half,Ahmet Yılmaz Çalık --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Engin Bekdemir play?,Right-half,Engin Bekdemir --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does eray ataseven play?,Right-half,eray ataseven --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does erdem sen play?,Right-half,erdem sen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,"What position does Yeşilyurt, Erdoğan play?",Right-half,"Yeşilyurt, Erdoğan --[position played on team / speciality]--> Right-half"
+pattern_d_player_position_clean,What position does Eren Ozen play?,Right-half,Eren Ozen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does rıdvan dilmen play?,Right-half,rıdvan dilmen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Erdal Rakip play?,Right-half,Erdal Rakip --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does erkan taskiran play?,Right-half,erkan taskiran --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does erkan zengin play?,Right-half,erkan zengin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does tarik altuntas play?,Right-half,tarik altuntas --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does deniz turuc play?,Right-half,deniz turuc --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does murat akin play?,Right-half,murat akin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Jakup Jimmy Durmaz play?,Right-half,Jakup Jimmy Durmaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Suat Kaya play?,Right-half,Suat Kaya --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Okay Yokuslu play?,Right-half,Okay Yokuslu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ali tandogan play?,Right-half,ali tandogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hakkı tolunay kafkas play?,Right-half,hakkı tolunay kafkas --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does guerhan guersoy play?,Right-half,guerhan guersoy --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Ali Riza Sergen Yalcin play?,Right-half,Ali Riza Sergen Yalcin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does mehmet özdilek play?,Right-half,mehmet özdilek --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Yusuf Erdogan play?,Right-half,Yusuf Erdogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does tayfur havutcu play?,Right-half,tayfur havutcu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does faruk gül (footballer) play?,Right-half,faruk gül (footballer) --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Fatih Yilmaz play?,Right-half,Fatih Yilmaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does fatih yigen play?,Right-half,fatih yigen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does fatih şen play?,Right-half,fatih şen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does fatma kara play?,Right-half,fatma kara --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does goksu turkdogan play?,Right-half,goksu turkdogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does zafer yelen play?,Right-half,zafer yelen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Zafer Cevik play?,Right-half,Zafer Cevik --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Ferhat Kiskanc play?,Right-half,Ferhat Kiskanc --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does feride bakir play?,Right-half,feride bakir --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Filiz Koç play?,Right-half,Filiz Koç --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hakan arslan play?,Right-half,hakan arslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Alibaz play?,Right-half,Alibaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ahmet oguz cetin play?,Right-half,ahmet oguz cetin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Onur Tuncer play?,Right-half,Onur Tuncer --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does tufan ozbozkurt play?,Right-half,tufan ozbozkurt --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does cihat çelik play?,Right-half,cihat çelik --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ismail budak play?,Right-half,ismail budak --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does muhittin basturk play?,Right-half,muhittin basturk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Levin Mete Öztunali play?,Right-half,Levin Mete Öztunali --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,"What position does onur bulut (footballer, born 1994) play?",Right-half,"onur bulut (footballer, born 1994) --[position played on team / speciality]--> Right-half"
+pattern_d_player_position_clean,What position does Onur Karakabak play?,Right-half,Onur Karakabak --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Vedat Bora play?,Right-half,Vedat Bora --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Ahmet Bahçıvan play?,Right-half,Ahmet Bahçıvan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Burak Altiparmak play?,Right-half,Burak Altiparmak --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does okan adil kurt play?,Right-half,okan adil kurt --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does cevad prekazi play?,Right-half,cevad prekazi --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does sueleyman koc play?,Right-half,sueleyman koc --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does doğanay kılıç play?,Right-half,doğanay kılıç --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does oguzhan kayar play?,Right-half,oguzhan kayar --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,"What position does Tamer Tuna (footballer, born 1976) play?",Right-half,"Tamer Tuna (footballer, born 1976) --[position played on team / speciality]--> Right-half"
+pattern_d_player_position_clean,What position does kubilay aktaş play?,Right-half,kubilay aktaş --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does mustafa akçay play?,Right-half,mustafa akçay --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does fuat buruk play?,Right-half,fuat buruk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Mehmet Kara play?,Right-half,Mehmet Kara --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Tuğrul Erat play?,Right-half,Tuğrul Erat --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Metin Sevinc play?,Right-half,Metin Sevinc --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Alper Uludağ play?,Right-half,Alper Uludağ --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Yasin Sülün play?,Right-half,Yasin Sülün --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Gökhan Alsan play?,Right-half,Gökhan Alsan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does gokhan erdogan play?,Right-half,gokhan erdogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does gökhan süzen play?,Right-half,gökhan süzen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does gökhan öztürk play?,Right-half,gökhan öztürk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does leyla güngör play?,Right-half,leyla güngör --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Güray Vural play?,Right-half,Güray Vural --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does güven varol play?,Right-half,güven varol --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ibrahim halil keser play?,Right-half,ibrahim halil keser --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does erol erdal alkan play?,Right-half,erol erdal alkan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Sinan Keskin play?,Right-half,Sinan Keskin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hasan hakan hacıbektaşoğlu play?,Right-half,hasan hakan hacıbektaşoğlu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hakan söyler play?,Right-half,hakan söyler --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hakan turan play?,Right-half,hakan turan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does halil akbunar play?,Right-half,halil akbunar --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does kerim avcı play?,Right-half,kerim avcı --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ahmet sahbaz play?,Right-half,ahmet sahbaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Erhan Celenk play?,Right-half,Erhan Celenk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hasan batuhan artarslan play?,Right-half,hasan batuhan artarslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Kenan Karisik play?,Right-half,Kenan Karisik --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does berkan afsarli play?,Right-half,berkan afsarli --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does muhammed ali doğan play?,Right-half,muhammed ali doğan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hasan ayaroglu play?,Right-half,hasan ayaroglu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Irfan Buz play?,Right-half,Irfan Buz --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Omer Boncuk play?,Right-half,Omer Boncuk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does selman sevinç play?,Right-half,selman sevinç --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does olcay turhan play?,Right-half,olcay turhan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Sevgi Çınar play?,Right-half,Sevgi Çınar --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does elif deniz play?,Right-half,elif deniz --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Helga Nadire İnan Ertürk play?,Right-half,Helga Nadire İnan Ertürk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does reyhan şeker play?,Right-half,reyhan şeker --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Veysel Aksu play?,Right-half,Veysel Aksu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does burak demiregen play?,Right-half,burak demiregen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Emine Ecem Esen play?,Right-half,Emine Ecem Esen --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Burak Can Kalender play?,Right-half,Burak Can Kalender --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does mehmet sıddık istemi play?,Right-half,mehmet sıddık istemi --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Ibrahim Serdar Aydin play?,Right-half,Ibrahim Serdar Aydin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Huseyin Atalay play?,Right-half,Huseyin Atalay --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does huseyin kala play?,Right-half,huseyin kala --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Huseyin Kalpar play?,Right-half,Huseyin Kalpar --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does yücel uyar play?,Right-half,yücel uyar --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does damla demirdön play?,Right-half,damla demirdön --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does mevlude ozturk play?,Right-half,mevlude ozturk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does İbrahim Tusder play?,Right-half,İbrahim Tusder --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Mehmet Sak play?,Right-half,Mehmet Sak --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does sinan tekerci play?,Right-half,sinan tekerci --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does muhammed akarslan play?,Right-half,muhammed akarslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Yunus Emre Yalcin play?,Right-half,Yunus Emre Yalcin --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does sedat özden play?,Right-half,sedat özden --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Ali Hamdemir play?,Right-half,Ali Hamdemir --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ianis hagi play?,Right-half,ianis hagi --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Necdet Senturk play?,Right-half,Necdet Senturk --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Mehmet Çolak play?,Right-half,Mehmet Çolak --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does yilmaz ozlem play?,Right-half,yilmaz ozlem --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Basak Ersoy play?,Right-half,Basak Ersoy --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Hanife Demiryol play?,Right-half,Hanife Demiryol --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Kadir Keleş play?,Right-half,Kadir Keleş --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does kamber arslan play?,Right-half,kamber arslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does volkan arslan play?,Right-half,volkan arslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does kerem şeras play?,Right-half,kerem şeras --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does funda payan play?,Right-half,funda payan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hilal çetinkaya play?,Right-half,hilal çetinkaya --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does gülbin hız play?,Right-half,gülbin hız --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Kemal Okyay play?,Right-half,Kemal Okyay --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does hilal başkol play?,Right-half,hilal başkol --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Ümit Yücel Eminoğlu play?,Right-half,Ümit Yücel Eminoğlu --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does kenan ozer play?,Right-half,kenan ozer --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does mehmet sığırcı play?,Right-half,mehmet sığırcı --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Mehmet Tas play?,Right-half,Mehmet Tas --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Osman Denizci play?,Right-half,Osman Denizci --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does ferhat yazgan play?,Right-half,ferhat yazgan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does buse güngör play?,Right-half,buse güngör --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Umran Ozev play?,Right-half,Umran Ozev --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Köksal Yedek play?,Right-half,Köksal Yedek --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does emrah cebeci play?,Right-half,emrah cebeci --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Emre Akbaba play?,Right-half,Emre Akbaba --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does i̇rfan kahveci play?,Right-half,i̇rfan kahveci --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Fahri Tatan play?,Right-half,Fahri Tatan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Adem Guven play?,Right-half,Adem Guven --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Muhammed Mert play?,Right-half,Muhammed Mert --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Dzhemal Kyzylatesh play?,Right-half,Dzhemal Kyzylatesh --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Tolcay Ciğerci play?,Right-half,Tolcay Ciğerci --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does levent devrim play?,Right-half,levent devrim --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,"What position does Kilinc, David play?",Right-half,"Kilinc, David --[position played on team / speciality]--> Right-half"
+pattern_d_player_position_clean,What position does yüksel sariyar play?,Right-half,yüksel sariyar --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Serhat Koksal play?,Right-half,Serhat Koksal --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does yekta kurtulus play?,Right-half,yekta kurtulus --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Fatma Serdar play?,Right-half,Fatma Serdar --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does gamze bezan play?,Right-half,gamze bezan --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does fatos yildirim play?,Right-half,fatos yildirim --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does tuğba karataş play?,Right-half,tuğba karataş --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Lokman Gör play?,Right-half,Lokman Gör --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Başak İçinözbebek play?,Right-half,Başak İçinözbebek --[position played on team / speciality]--> Right-half
+pattern_d_player_position_clean,What position does Zeki Korkmaz play?,Right-half,Zeki Korkmaz --[position played on team / speciality]--> Right-half
+pattern_e_team_league,Which league does the team of ali osman renklibay play in?,bölgesel amatör lig,ali osman renklibay --[member of sports team]--> Ceyhanspor --[league]--> bölgesel amatör lig
+pattern_e_team_league,Which league does the team of i̇brahim halil yaşar play in?,TFF Third League,i̇brahim halil yaşar --[member of sports team]--> Kirikhanspor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of Güven Gürsoy play in?,TFF Third League,Güven Gürsoy --[member of sports team]--> Kirikhanspor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of Bulut Basmaz play in?,turkish super league,Bulut Basmaz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of i̇lker erbay play in?,turkish super league,i̇lker erbay --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Yunus Altun play in?,turkish super league,Yunus Altun --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of deniz aslan play in?,turkish super league,deniz aslan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Murat Kayalı play in?,turkish super league,Murat Kayalı --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of gokhan emreciksin play in?,turkish super league,gokhan emreciksin --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of alper kalemci play in?,turkish super league,alper kalemci --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Murat Akyuez play in?,turkish super league,Murat Akyuez --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Erdinc Yavuz play in?,turkish super league,Erdinc Yavuz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Eren Aydin play in?,turkish super league,Eren Aydin --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Sinan Kaloglu play in?,turkish super league,Sinan Kaloglu --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of goksu turkdogan play in?,turkish super league,goksu turkdogan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Ferhat Odabaşı play in?,turkish super league,Ferhat Odabaşı --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Yavuz Eraydin play in?,turkish super league,Yavuz Eraydin --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of erol erdal alkan play in?,turkish super league,erol erdal alkan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of hasan hakan hacıbektaşoğlu play in?,turkish super league,hasan hakan hacıbektaşoğlu --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of hakan söyler play in?,turkish super league,hakan söyler --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of halil akbunar play in?,turkish super league,halil akbunar --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of çağlayan alpsatan play in?,turkish super league,çağlayan alpsatan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of muhammed ali doğan play in?,turkish super league,muhammed ali doğan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Veysel Aksu play in?,turkish super league,Veysel Aksu --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Muhammet Akyildiz play in?,turkish super league,Muhammet Akyildiz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of kemal tokak play in?,turkish super league,kemal tokak --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Köksal Yedek play in?,turkish super league,Köksal Yedek --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of çağlar şahin akbaba play in?,turkish super league,çağlar şahin akbaba --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,"Which league does the team of Kilinc, David play in?",turkish super league,"Kilinc, David --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league"
+pattern_e_team_league,Which league does the team of Zeki Korkmaz play in?,turkish super league,Zeki Korkmaz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of mehmet al play in?,turkish super league,mehmet al --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Mehmet Turkmehmet play in?,turkish super league,Mehmet Turkmehmet --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of sözgelmez play in?,turkish super league,sözgelmez --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of miško mirkovic play in?,turkish super league,miško mirkovic --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Kulbilge play in?,turkish super league,Kulbilge --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of nurullah saglam play in?,turkish super league,nurullah saglam --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of oguzhan bahadir play in?,turkish super league,oguzhan bahadir --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Richard Kingson play in?,turkish super league,Richard Kingson --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Bahadir Ozturk play in?,turkish super league,Bahadir Ozturk --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,"Which league does the team of ağçay, sedat play in?",turkish super league,"ağçay, sedat --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league"
+pattern_e_team_league,Which league does the team of tolga özgen play in?,turkish super league,tolga özgen --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of zulkuf ozer play in?,turkish super league,zulkuf ozer --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Volkan Yilmaz play in?,turkish super league,Volkan Yilmaz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Yusuf Kurtulus play in?,turkish super league,Yusuf Kurtulus --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of ali gutda gokdemir play in?,turkish super league,ali gutda gokdemir --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of cağlar birinci play in?,turkish super league,cağlar birinci --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Mehmet Nas play in?,turkish super league,Mehmet Nas --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of sedat bayrak play in?,turkish super league,sedat bayrak --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Ersan Gueluem play in?,turkish super league,Ersan Gueluem --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Onder Cengel play in?,turkish super league,Onder Cengel --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Özgür Özkaya play in?,turkish super league,Özgür Özkaya --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of murat tosun play in?,turkish super league,murat tosun --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Mehmet Boztepe play in?,turkish super league,Mehmet Boztepe --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Aydin Karabulut play in?,turkish super league,Aydin Karabulut --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Umit Tutunci play in?,turkish super league,Umit Tutunci --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of ibrahim kas play in?,turkish super league,ibrahim kas --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of İlker Avcıbay play in?,turkish super league,İlker Avcıbay --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Adem Alkasi play in?,turkish super league,Adem Alkasi --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Ahmet Görkem Görk play in?,turkish super league,Ahmet Görkem Görk --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Ahmet Şahin (footballer) play in?,turkish super league,Ahmet Şahin (footballer) --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of mustafa sarp play in?,turkish super league,mustafa sarp --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of rıdvan şimşek play in?,turkish super league,rıdvan şimşek --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Serdar Gürler play in?,turkish super league,Serdar Gürler --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of ali olmez play in?,turkish super league,ali olmez --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of sezer badur play in?,turkish super league,sezer badur --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of bulent bal play in?,turkish super league,bulent bal --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of bülent ertuğrul play in?,turkish super league,bülent ertuğrul --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of erhan namlı play in?,turkish super league,erhan namlı --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Erman Öncü play in?,turkish super league,Erman Öncü --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of ertugrul arslan play in?,turkish super league,ertugrul arslan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Feridun Sungur play in?,turkish super league,Feridun Sungur --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Arif Şahin play in?,turkish super league,Arif Şahin --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of sinan ozkan play in?,turkish super league,sinan ozkan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of atilla yıldırım play in?,turkish super league,atilla yıldırım --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of guven guneri play in?,turkish super league,guven guneri --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Serdar Ozkan play in?,turkish super league,Serdar Ozkan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of berk yıldız play in?,turkish super league,berk yıldız --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Hasan Ozer play in?,turkish super league,Hasan Ozer --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Kemal Ozdes play in?,turkish super league,Kemal Ozdes --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of erman kılıç play in?,turkish super league,erman kılıç --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Tanju Kayhan play in?,turkish super league,Tanju Kayhan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Korhan Ozturk play in?,turkish super league,Korhan Ozturk --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Taner Yalcin play in?,turkish super league,Taner Yalcin --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Muharrem Uz play in?,turkish super league,Muharrem Uz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of murat selvi play in?,turkish super league,murat selvi --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of noyan öz play in?,turkish super league,noyan öz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Oktay Kuday play in?,turkish super league,Oktay Kuday --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Deniz Yılmaz play in?,turkish super league,Deniz Yılmaz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of mehmet cakir play in?,turkish super league,mehmet cakir --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of atacan ozturk play in?,turkish super league,atacan ozturk --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Taner Demirbas play in?,turkish super league,Taner Demirbas --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of serdar ozbayraktar play in?,turkish super league,serdar ozbayraktar --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Onur Ayık play in?,turkish super league,Onur Ayık --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Batuhan Karadeniz play in?,turkish super league,Batuhan Karadeniz --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Eser Yağmur play in?,turkish super league,Eser Yağmur --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Murat Kalkan play in?,turkish super league,Murat Kalkan --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of kenan şahin (footballer) play in?,turkish super league,kenan şahin (footballer) --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Birol Hikmet play in?,turkish super league,Birol Hikmet --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of Orkun Uşak play in?,turkish super league,Orkun Uşak --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of orhan ak play in?,turkish super league,orhan ak --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of ismail isa mustafa play in?,turkish super league,ismail isa mustafa --[member of sports team]--> sanica boru elâzığspor --[league]--> turkish super league
+pattern_e_team_league,Which league does the team of egemen korkmaz play in?,Bank Asya 1.League,egemen korkmaz --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Enes Kubat play in?,Bank Asya 1.League,Enes Kubat --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of deniz aslan play in?,Bank Asya 1.League,deniz aslan --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Efecan Karaca play in?,Bank Asya 1.League,Efecan Karaca --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of gokhan emreciksin play in?,Bank Asya 1.League,gokhan emreciksin --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Uğur Demirok play in?,Bank Asya 1.League,Uğur Demirok --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Murat Akyuez play in?,Bank Asya 1.League,Murat Akyuez --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of emrah eren play in?,Bank Asya 1.League,emrah eren --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Semih Kaya play in?,Bank Asya 1.League,Semih Kaya --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of ethem pülgir play in?,Bank Asya 1.League,ethem pülgir --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of yaser yildiz play in?,Bank Asya 1.League,yaser yildiz --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of fatih şen play in?,Bank Asya 1.League,fatih şen --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Zafer Cevik play in?,Bank Asya 1.League,Zafer Cevik --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of kaya tarakcı play in?,Bank Asya 1.League,kaya tarakcı --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of uğur yılmaz play in?,Bank Asya 1.League,uğur yılmaz --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of halil zeybek play in?,Bank Asya 1.League,halil zeybek --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of mehmet gurkan ozturk play in?,Bank Asya 1.League,mehmet gurkan ozturk --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of haydar yılmaz play in?,Bank Asya 1.League,haydar yılmaz --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Cem Tosun play in?,Bank Asya 1.League,Cem Tosun --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Fahri Tatan play in?,Bank Asya 1.League,Fahri Tatan --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Mehmet Uslu play in?,Bank Asya 1.League,Mehmet Uslu --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of mehmet al play in?,Bank Asya 1.League,mehmet al --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Mehmet Turkmehmet play in?,Bank Asya 1.League,Mehmet Turkmehmet --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Muhammed Türkmen play in?,Bank Asya 1.League,Muhammed Türkmen --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of olgay coskun play in?,Bank Asya 1.League,olgay coskun --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of oğuz dağlaroğlu play in?,Bank Asya 1.League,oğuz dağlaroğlu --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of emrullah güvenç play in?,Bank Asya 1.League,emrullah güvenç --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of volkan demirel play in?,Bank Asya 1.League,volkan demirel --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of serkan ozsoy play in?,Bank Asya 1.League,serkan ozsoy --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of ugur akdemir play in?,Bank Asya 1.League,ugur akdemir --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of erman özgür play in?,Bank Asya 1.League,erman özgür --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of erdem özgenç play in?,Bank Asya 1.League,erdem özgenç --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of yasin celik play in?,Bank Asya 1.League,yasin celik --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Murat Onur play in?,Bank Asya 1.League,Murat Onur --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Onder Cengel play in?,Bank Asya 1.League,Onder Cengel --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of ozden onguen play in?,Bank Asya 1.League,ozden onguen --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Abdullah Karmil play in?,Bank Asya 1.League,Abdullah Karmil --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Umit Tutunci play in?,Bank Asya 1.League,Umit Tutunci --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Iskender Alın play in?,Bank Asya 1.League,Iskender Alın --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Ayibogan play in?,Bank Asya 1.League,Ayibogan --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of adem sari play in?,Bank Asya 1.League,adem sari --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Erhan Senturk play in?,Bank Asya 1.League,Erhan Senturk --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Cahit Paşa play in?,Bank Asya 1.League,Cahit Paşa --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Kürşat Duymuş play in?,Bank Asya 1.League,Kürşat Duymuş --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Ender Alkan play in?,Bank Asya 1.League,Ender Alkan --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Arif Şahin play in?,Bank Asya 1.League,Arif Şahin --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of guven guneri play in?,Bank Asya 1.League,guven guneri --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of berkin kamil aslan play in?,Bank Asya 1.League,berkin kamil aslan --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of olcay çetinkaya play in?,Bank Asya 1.League,olcay çetinkaya --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Hasan Ozer play in?,Bank Asya 1.League,Hasan Ozer --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of hasan vezir play in?,Bank Asya 1.League,hasan vezir --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Atilla Koca play in?,Bank Asya 1.League,Atilla Koca --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,"Which league does the team of Adın, Olcan play in?",Bank Asya 1.League,"Adın, Olcan --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League"
+pattern_e_team_league,Which league does the team of erhan kavak play in?,Bank Asya 1.League,erhan kavak --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of rıza şen play in?,Bank Asya 1.League,rıza şen --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Oguz Sabankay play in?,Bank Asya 1.League,Oguz Sabankay --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of sezer sezgin play in?,Bank Asya 1.League,sezer sezgin --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Tayfun Seven play in?,Bank Asya 1.League,Tayfun Seven --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of umut kekilli play in?,Bank Asya 1.League,umut kekilli --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Ugur Erdogan play in?,Bank Asya 1.League,Ugur Erdogan --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of yağız göktuğ taşbulak play in?,Bank Asya 1.League,yağız göktuğ taşbulak --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Volkan Ekici play in?,Bank Asya 1.League,Volkan Ekici --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Eser Yağmur play in?,Bank Asya 1.League,Eser Yağmur --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,"Which league does the team of selçuk şahin (footballer, born 1983) play in?",Bank Asya 1.League,"selçuk şahin (footballer, born 1983) --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League"
+pattern_e_team_league,Which league does the team of yavuz özkan (footballer) play in?,Bank Asya 1.League,yavuz özkan (footballer) --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of mahmut ertugrul taskiran play in?,Bank Asya 1.League,mahmut ertugrul taskiran --[member of sports team]--> Kartalspor --[league]--> Bank Asya 1.League
+pattern_e_team_league,Which league does the team of Irfan Buz play in?,TFF Third League,Irfan Buz --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of Senyil Mehmet Kutay play in?,TFF Third League,Senyil Mehmet Kutay --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of erdem özgenç play in?,TFF Third League,erdem özgenç --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of Bülent Uzun play in?,TFF Third League,Bülent Uzun --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of Ender Alkan play in?,TFF Third League,Ender Alkan --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of Aykut Akgün play in?,TFF Third League,Aykut Akgün --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of Engin Baytar play in?,TFF Third League,Engin Baytar --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of guven guneri play in?,TFF Third League,guven guneri --[member of sports team]--> i̇stanbul maltepespor --[league]--> TFF Third League
+pattern_e_team_league,Which league does the team of mehmet budak play in?,TFF Second League/doc,mehmet budak --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Fatih Ozturk Trabzonspor play in?,TFF Second League/doc,Fatih Ozturk Trabzonspor --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of emre toraman play in?,TFF Second League/doc,emre toraman --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Emrullah Salk play in?,TFF Second League/doc,Emrullah Salk --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Eren Aydin play in?,TFF Second League/doc,Eren Aydin --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of evren özyiğit play in?,TFF Second League/doc,evren özyiğit --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of kâmil altan play in?,TFF Second League/doc,kâmil altan --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of volkan arslan play in?,TFF Second League/doc,volkan arslan --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of mehmet aksu play in?,TFF Second League/doc,mehmet aksu --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Okan Salmaz play in?,TFF Second League/doc,Okan Salmaz --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of sezgin coskun play in?,TFF Second League/doc,sezgin coskun --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Soner Ornek play in?,TFF Second League/doc,Soner Ornek --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of ali beratlıgil play in?,TFF Second League/doc,ali beratlıgil --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of murat gürbüzerol play in?,TFF Second League/doc,murat gürbüzerol --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Hasan Ali Durtuluk play in?,TFF Second League/doc,Hasan Ali Durtuluk --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Onder Cengel play in?,TFF Second League/doc,Onder Cengel --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of İlyas Kahraman play in?,TFF Second League/doc,İlyas Kahraman --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of güven cavus play in?,TFF Second League/doc,güven cavus --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Ender Günlü play in?,TFF Second League/doc,Ender Günlü --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Ahmet Dursun play in?,TFF Second League/doc,Ahmet Dursun --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Ahmet Görkem Görk play in?,TFF Second League/doc,Ahmet Görkem Görk --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of ahmet saglam play in?,TFF Second League/doc,ahmet saglam --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Furkan Aydin play in?,TFF Second League/doc,Furkan Aydin --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of altan aksoy play in?,TFF Second League/doc,altan aksoy --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc
+pattern_e_team_league,Which league does the team of Arif Karaoğlan play in?,TFF Second League/doc,Arif Karaoğlan --[member of sports team]--> eyüp sk --[league]--> TFF Second League/doc

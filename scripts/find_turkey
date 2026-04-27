@@ -1,0 +1,45 @@
+from pathlib import Path
+
+RAW = Path("data/raw")
+entity_file = RAW / "wikidata5m_entity.txt"
+text_file = RAW / "wikidata5m_text.txt"
+
+keywords = ["turkey", "türkiye", "turkiye"]
+
+matches = []
+
+# entity names
+with open(entity_file, "r", encoding="utf-8") as f:
+    for line in f:
+        parts = line.rstrip("\n").split("\t")
+        if len(parts) >= 2:
+            entity_id = parts[0]
+            name = parts[1]
+            lower_name = name.lower()
+            if any(k in lower_name for k in keywords):
+                matches.append((entity_id, name, "ENTITY_NAME"))
+
+# descriptions
+with open(text_file, "r", encoding="utf-8") as f:
+    for line in f:
+        parts = line.rstrip("\n").split("\t")
+        if len(parts) >= 2:
+            entity_id = parts[0]
+            desc = parts[1]
+            lower_desc = desc.lower()
+            if any(k in lower_desc for k in keywords):
+                matches.append((entity_id, desc[:120], "DESCRIPTION"))
+
+print(f"Total matches found: {len(matches)}")
+print("-" * 80)
+
+seen = set()
+shown = 0
+for item in matches:
+    key = item[0]
+    if key not in seen:
+        seen.add(key)
+        print(item)
+        shown += 1
+    if shown >= 50:
+        break

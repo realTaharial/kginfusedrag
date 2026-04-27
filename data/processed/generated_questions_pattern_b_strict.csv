@@ -1,0 +1,5 @@
+question_type,question,answer,player_id,player_name,club_id,club_name,city_id,city_name,reasoning_path
+pattern_b_team_city,In which city is the team of egemen korkmaz headquartered?,istanbul (turkey),Q1114411,egemen korkmaz,Q1170018,Kartalspor,Q406,istanbul (turkey),egemen korkmaz --[member of sports team]--> Kartalspor --[headquarters location]--> istanbul (turkey)
+pattern_b_team_city,In which city is the team of Enes Kubat headquartered?,istanbul (turkey),Q1121974,Enes Kubat,Q1170018,Kartalspor,Q406,istanbul (turkey),Enes Kubat --[member of sports team]--> Kartalspor --[headquarters location]--> istanbul (turkey)
+pattern_b_team_city,In which city is the team of mehmet budak headquartered?,istanbul (turkey),Q10397140,mehmet budak,Q118919,eyüp sk,Q406,istanbul (turkey),mehmet budak --[member of sports team]--> eyüp sk --[headquarters location]--> istanbul (turkey)
+pattern_b_team_city,In which city is the team of Fatih Ozturk Trabzonspor headquartered?,istanbul (turkey),Q13256507,Fatih Ozturk Trabzonspor,Q118919,eyüp sk,Q406,istanbul (turkey),Fatih Ozturk Trabzonspor --[member of sports team]--> eyüp sk --[headquarters location]--> istanbul (turkey)

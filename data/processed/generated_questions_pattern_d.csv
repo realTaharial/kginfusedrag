@@ -1,0 +1,201 @@
+question_type,question,answer,player_id,player_name,pos_id,pos_name,reasoning_path
+pattern_d_player_position,What position does Mert Hakan Yandaş play?,winger (rugby league),Q16937968,Mert Hakan Yandaş,Q1369558,winger (rugby league),Mert Hakan Yandaş --[position played on team / speciality]--> winger (rugby league)
+pattern_d_player_position,What position does Metin Kurt play?,winger (rugby league),Q1925646,Metin Kurt,Q1369558,winger (rugby league),Metin Kurt --[position played on team / speciality]--> winger (rugby league)
+pattern_d_player_position,What position does muslih peykoğlu play?,winger (rugby league),Q6037819,muslih peykoğlu,Q1369558,winger (rugby league),muslih peykoğlu --[position played on team / speciality]--> winger (rugby league)
+pattern_d_player_position,What position does hedo türkoğlu play?,Point Forward,Q298981,hedo türkoğlu,Q1607137,Point Forward,hedo türkoğlu --[position played on team / speciality]--> Point Forward
+pattern_d_player_position,What position does önder özen play?,Goalkeeper,Q12812709,önder özen,Q172964,Goalkeeper,önder özen --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position,What position does çağlar şahin akbaba play?,Goalkeeper,Q18030084,çağlar şahin akbaba,Q172964,Goalkeeper,çağlar şahin akbaba --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position,What position does Irfan Can Egribayat play?,Goalkeeper,Q22342440,Irfan Can Egribayat,Q172964,Goalkeeper,Irfan Can Egribayat --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position,What position does erhan erentürk play?,Goalkeeper,Q22342445,erhan erentürk,Q172964,Goalkeeper,erhan erentürk --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position,What position does fikret yılmaz play?,Goalkeeper,Q6089409,fikret yılmaz,Q172964,Goalkeeper,fikret yılmaz --[position played on team / speciality]--> Goalkeeper
+pattern_d_player_position,What position does Burhan Eser play?,Right-half,Q1016271,Burhan Eser,Q193592,Right-half,Burhan Eser --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Bülent Cevahir play?,Right-half,Q1020675,Bülent Cevahir,Q193592,Right-half,Bülent Cevahir --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Bülent Kocabey play?,Right-half,Q1020683,Bülent Kocabey,Q193592,Right-half,Bülent Kocabey --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does buelent uygun play?,Right-half,Q1020698,buelent uygun,Q193592,Right-half,buelent uygun --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Can Bartu play?,Right-half,Q1031846,Can Bartu,Q193592,Right-half,Can Bartu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Caner Ağca play?,Right-half,Q1033114,Caner Ağca,Q193592,Right-half,Caner Ağca --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does cansu yağ play?,Right-half,Q1033654,cansu yağ,Q193592,Right-half,cansu yağ --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does musa büyük play?,Right-half,Q10382469,musa büyük,Q193592,Right-half,musa büyük --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Mehmet Yilmaz (defender) play?,Right-half,Q10397103,Mehmet Yilmaz (defender),Q193592,Right-half,Mehmet Yilmaz (defender) --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does mehmet budak play?,Right-half,Q10397140,mehmet budak,Q193592,Right-half,mehmet budak --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does mutlu topcu play?,Right-half,Q10433617,mutlu topcu,Q193592,Right-half,mutlu topcu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ömer közen play?,Right-half,Q10442838,ömer közen,Q193592,Right-half,ömer közen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Cem Can play?,Right-half,Q1053252,Cem Can,Q193592,Right-half,Cem Can --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does cem özdemir (footballer) play?,Right-half,Q1053268,cem özdemir (footballer),Q193592,Right-half,cem özdemir (footballer) --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Cenk Ahmet Alkılıç play?,Right-half,Q1053395,Cenk Ahmet Alkılıç,Q193592,Right-half,Cenk Ahmet Alkılıç --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does civar cetin play?,Right-half,Q1094416,civar cetin,Q193592,Right-half,civar cetin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Timo Cecen play?,Right-half,Q111047,Timo Cecen,Q193592,Right-half,Timo Cecen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Oguzhan Berber play?,Right-half,Q1115783,Oguzhan Berber,Q193592,Right-half,Oguzhan Berber --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Özkan Yildirim play?,Right-half,Q1152151,Özkan Yildirim,Q193592,Right-half,Özkan Yildirim --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Deniz Vural play?,Right-half,Q1187858,Deniz Vural,Q193592,Right-half,Deniz Vural --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Hakin Yakin play?,Right-half,Q122346,Hakin Yakin,Q193592,Right-half,Hakin Yakin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Efecan Karaca play?,Right-half,Q1226018,Efecan Karaca,Q193592,Right-half,Efecan Karaca --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Murat Kayalı play?,Right-half,Q1230804,Murat Kayalı,Q193592,Right-half,Murat Kayalı --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Samet Bulbul play?,Right-half,Q1230845,Samet Bulbul,Q193592,Right-half,Samet Bulbul --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does yusuf kasal play?,Right-half,Q123736,yusuf kasal,Q193592,Right-half,yusuf kasal --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Merthan Açıl play?,Right-half,Q1242664,Merthan Açıl,Q193592,Right-half,Merthan Açıl --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does gokhan emreciksin play?,Right-half,Q1253508,gokhan emreciksin,Q193592,Right-half,gokhan emreciksin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Doğa Kaya play?,Right-half,Q1253603,Doğa Kaya,Q193592,Right-half,Doğa Kaya --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does kivanc karakas play?,Right-half,Q1258627,kivanc karakas,Q193592,Right-half,kivanc karakas --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does dursun karatay play?,Right-half,Q1267525,dursun karatay,Q193592,Right-half,dursun karatay --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does alper kalemci play?,Right-half,Q1268421,alper kalemci,Q193592,Right-half,alper kalemci --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does umut sozen play?,Right-half,Q1293904,umut sozen,Q193592,Right-half,umut sozen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Efe Inanc play?,Right-half,Q1295771,Efe Inanc,Q193592,Right-half,Efe Inanc --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Metin Diyadin play?,Right-half,Q1304877,Metin Diyadin,Q193592,Right-half,Metin Diyadin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does emrah bassan play?,Right-half,Q1339518,emrah bassan,Q193592,Right-half,emrah bassan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Emre Nefiz play?,Right-half,Q1339573,Emre Nefiz,Q193592,Right-half,Emre Nefiz --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does emre colak play?,Right-half,Q1339629,emre colak,Q193592,Right-half,emre colak --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Ahmet Yılmaz Çalık play?,Right-half,Q13407931,Ahmet Yılmaz Çalık,Q193592,Right-half,Ahmet Yılmaz Çalık --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Engin Bekdemir play?,Right-half,Q1342342,Engin Bekdemir,Q193592,Right-half,Engin Bekdemir --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does eray ataseven play?,Right-half,Q1348172,eray ataseven,Q193592,Right-half,eray ataseven --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does erdem sen play?,Right-half,Q1349081,erdem sen,Q193592,Right-half,erdem sen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,"What position does Yeşilyurt, Erdoğan play?",Right-half,Q1349418,"Yeşilyurt, Erdoğan",Q193592,Right-half,"Yeşilyurt, Erdoğan --[position played on team / speciality]--> Right-half"
+pattern_d_player_position,What position does Eren Ozen play?,Right-half,Q1350006,Eren Ozen,Q193592,Right-half,Eren Ozen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does rıdvan dilmen play?,Right-half,Q1353591,rıdvan dilmen,Q193592,Right-half,rıdvan dilmen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Erdal Rakip play?,Right-half,Q13539238,Erdal Rakip,Q193592,Right-half,Erdal Rakip --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does erkan taskiran play?,Right-half,Q1354983,erkan taskiran,Q193592,Right-half,erkan taskiran --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does erkan zengin play?,Right-half,Q1355014,erkan zengin,Q193592,Right-half,erkan zengin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does tarik altuntas play?,Right-half,Q13551313,tarik altuntas,Q193592,Right-half,tarik altuntas --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does deniz turuc play?,Right-half,Q13572006,deniz turuc,Q193592,Right-half,deniz turuc --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does murat akin play?,Right-half,Q1359223,murat akin,Q193592,Right-half,murat akin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Jakup Jimmy Durmaz play?,Right-half,Q1365667,Jakup Jimmy Durmaz,Q193592,Right-half,Jakup Jimmy Durmaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Suat Kaya play?,Right-half,Q1372805,Suat Kaya,Q193592,Right-half,Suat Kaya --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Okay Yokuslu play?,Right-half,Q1373065,Okay Yokuslu,Q193592,Right-half,Okay Yokuslu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ali tandogan play?,Right-half,Q1378286,ali tandogan,Q193592,Right-half,ali tandogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hakkı tolunay kafkas play?,Right-half,Q1378780,hakkı tolunay kafkas,Q193592,Right-half,hakkı tolunay kafkas --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does guerhan guersoy play?,Right-half,Q1383232,guerhan guersoy,Q193592,Right-half,guerhan guersoy --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Ali Riza Sergen Yalcin play?,Right-half,Q1388570,Ali Riza Sergen Yalcin,Q193592,Right-half,Ali Riza Sergen Yalcin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does mehmet özdilek play?,Right-half,Q1388954,mehmet özdilek,Q193592,Right-half,mehmet özdilek --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Yusuf Erdogan play?,Right-half,Q1390540,Yusuf Erdogan,Q193592,Right-half,Yusuf Erdogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does tayfur havutcu play?,Right-half,Q1394807,tayfur havutcu,Q193592,Right-half,tayfur havutcu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does faruk gül (footballer) play?,Right-half,Q1397195,faruk gül (footballer),Q193592,Right-half,faruk gül (footballer) --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Fatih Yilmaz play?,Right-half,Q1398115,Fatih Yilmaz,Q193592,Right-half,Fatih Yilmaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does fatih yigen play?,Right-half,Q1398118,fatih yigen,Q193592,Right-half,fatih yigen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does fatih şen play?,Right-half,Q1398126,fatih şen,Q193592,Right-half,fatih şen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does fatma kara play?,Right-half,Q1398186,fatma kara,Q193592,Right-half,fatma kara --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does goksu turkdogan play?,Right-half,Q1401074,goksu turkdogan,Q193592,Right-half,goksu turkdogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does zafer yelen play?,Right-half,Q140159,zafer yelen,Q193592,Right-half,zafer yelen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Zafer Cevik play?,Right-half,Q140160,Zafer Cevik,Q193592,Right-half,Zafer Cevik --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Ferhat Kiskanc play?,Right-half,Q1406253,Ferhat Kiskanc,Q193592,Right-half,Ferhat Kiskanc --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does feride bakir play?,Right-half,Q1406281,feride bakir,Q193592,Right-half,feride bakir --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Filiz Koç play?,Right-half,Q1414112,Filiz Koç,Q193592,Right-half,Filiz Koç --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hakan arslan play?,Right-half,Q1422367,hakan arslan,Q193592,Right-half,hakan arslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Alibaz play?,Right-half,Q1429170,Alibaz,Q193592,Right-half,Alibaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ahmet oguz cetin play?,Right-half,Q1439300,ahmet oguz cetin,Q193592,Right-half,ahmet oguz cetin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Onur Tuncer play?,Right-half,Q1440540,Onur Tuncer,Q193592,Right-half,Onur Tuncer --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does tufan ozbozkurt play?,Right-half,Q14454131,tufan ozbozkurt,Q193592,Right-half,tufan ozbozkurt --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does cihat çelik play?,Right-half,Q14468463,cihat çelik,Q193592,Right-half,cihat çelik --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ismail budak play?,Right-half,Q1448582,ismail budak,Q193592,Right-half,ismail budak --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does muhittin basturk play?,Right-half,Q14542497,muhittin basturk,Q193592,Right-half,muhittin basturk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Levin Mete Öztunali play?,Right-half,Q14551682,Levin Mete Öztunali,Q193592,Right-half,Levin Mete Öztunali --[position played on team / speciality]--> Right-half
+pattern_d_player_position,"What position does onur bulut (footballer, born 1994) play?",Right-half,Q14623225,"onur bulut (footballer, born 1994)",Q193592,Right-half,"onur bulut (footballer, born 1994) --[position played on team / speciality]--> Right-half"
+pattern_d_player_position,What position does Onur Karakabak play?,Right-half,Q1471939,Onur Karakabak,Q193592,Right-half,Onur Karakabak --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Vedat Bora play?,Right-half,Q14776381,Vedat Bora,Q193592,Right-half,Vedat Bora --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Ahmet Bahçıvan play?,Right-half,Q14776423,Ahmet Bahçıvan,Q193592,Right-half,Ahmet Bahçıvan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Burak Altiparmak play?,Right-half,Q14776723,Burak Altiparmak,Q193592,Right-half,Burak Altiparmak --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does okan adil kurt play?,Right-half,Q14778657,okan adil kurt,Q193592,Right-half,okan adil kurt --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does cevad prekazi play?,Right-half,Q1487904,cevad prekazi,Q193592,Right-half,cevad prekazi --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does sueleyman koc play?,Right-half,Q1498622,sueleyman koc,Q193592,Right-half,sueleyman koc --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does doğanay kılıç play?,Right-half,Q15057775,doğanay kılıç,Q193592,Right-half,doğanay kılıç --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does oguzhan kayar play?,Right-half,Q15076827,oguzhan kayar,Q193592,Right-half,oguzhan kayar --[position played on team / speciality]--> Right-half
+pattern_d_player_position,"What position does Tamer Tuna (footballer, born 1976) play?",Right-half,Q1515689,"Tamer Tuna (footballer, born 1976)",Q193592,Right-half,"Tamer Tuna (footballer, born 1976) --[position played on team / speciality]--> Right-half"
+pattern_d_player_position,What position does kubilay aktaş play?,Right-half,Q15224689,kubilay aktaş,Q193592,Right-half,kubilay aktaş --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does mustafa akçay play?,Right-half,Q15234187,mustafa akçay,Q193592,Right-half,mustafa akçay --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does fuat buruk play?,Right-half,Q15280453,fuat buruk,Q193592,Right-half,fuat buruk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Mehmet Kara play?,Right-half,Q1536304,Mehmet Kara,Q193592,Right-half,Mehmet Kara --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Tuğrul Erat play?,Right-half,Q15363466,Tuğrul Erat,Q193592,Right-half,Tuğrul Erat --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Metin Sevinc play?,Right-half,Q15402153,Metin Sevinc,Q193592,Right-half,Metin Sevinc --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Alper Uludağ play?,Right-half,Q1546943,Alper Uludağ,Q193592,Right-half,Alper Uludağ --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Yasin Sülün play?,Right-half,Q1550964,Yasin Sülün,Q193592,Right-half,Yasin Sülün --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Gökhan Alsan play?,Right-half,Q1559254,Gökhan Alsan,Q193592,Right-half,Gökhan Alsan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does gokhan erdogan play?,Right-half,Q1559261,gokhan erdogan,Q193592,Right-half,gokhan erdogan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does gökhan süzen play?,Right-half,Q1559269,gökhan süzen,Q193592,Right-half,gökhan süzen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does gökhan öztürk play?,Right-half,Q1559274,gökhan öztürk,Q193592,Right-half,gökhan öztürk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does leyla güngör play?,Right-half,Q15614622,leyla güngör,Q193592,Right-half,leyla güngör --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Güray Vural play?,Right-half,Q1562026,Güray Vural,Q193592,Right-half,Güray Vural --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does güven varol play?,Right-half,Q1562318,güven varol,Q193592,Right-half,güven varol --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ibrahim halil keser play?,Right-half,Q15646673,ibrahim halil keser,Q193592,Right-half,ibrahim halil keser --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does erol erdal alkan play?,Right-half,Q15651896,erol erdal alkan,Q193592,Right-half,erol erdal alkan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Sinan Keskin play?,Right-half,Q15683469,Sinan Keskin,Q193592,Right-half,Sinan Keskin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hasan hakan hacıbektaşoğlu play?,Right-half,Q1569824,hasan hakan hacıbektaşoğlu,Q193592,Right-half,hasan hakan hacıbektaşoğlu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hakan söyler play?,Right-half,Q1569840,hakan söyler,Q193592,Right-half,hakan söyler --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hakan turan play?,Right-half,Q1569846,hakan turan,Q193592,Right-half,hakan turan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does halil akbunar play?,Right-half,Q1571109,halil akbunar,Q193592,Right-half,halil akbunar --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does kerim avcı play?,Right-half,Q15712800,kerim avcı,Q193592,Right-half,kerim avcı --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ahmet sahbaz play?,Right-half,Q15715542,ahmet sahbaz,Q193592,Right-half,ahmet sahbaz --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Erhan Celenk play?,Right-half,Q15808321,Erhan Celenk,Q193592,Right-half,Erhan Celenk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hasan batuhan artarslan play?,Right-half,Q15814426,hasan batuhan artarslan,Q193592,Right-half,hasan batuhan artarslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Kenan Karisik play?,Right-half,Q15839429,Kenan Karisik,Q193592,Right-half,Kenan Karisik --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does berkan afsarli play?,Right-half,Q15856866,berkan afsarli,Q193592,Right-half,berkan afsarli --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does muhammed ali doğan play?,Right-half,Q15879323,muhammed ali doğan,Q193592,Right-half,muhammed ali doğan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hasan ayaroglu play?,Right-half,Q1588087,hasan ayaroglu,Q193592,Right-half,hasan ayaroglu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Irfan Buz play?,Right-half,Q15979745,Irfan Buz,Q193592,Right-half,Irfan Buz --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Omer Boncuk play?,Right-half,Q16012049,Omer Boncuk,Q193592,Right-half,Omer Boncuk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does selman sevinç play?,Right-half,Q16069232,selman sevinç,Q193592,Right-half,selman sevinç --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does olcay turhan play?,Right-half,Q1609430,olcay turhan,Q193592,Right-half,olcay turhan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Sevgi Çınar play?,Right-half,Q16210237,Sevgi Çınar,Q193592,Right-half,Sevgi Çınar --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does elif deniz play?,Right-half,Q16210635,elif deniz,Q193592,Right-half,elif deniz --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Helga Nadire İnan Ertürk play?,Right-half,Q16212705,Helga Nadire İnan Ertürk,Q193592,Right-half,Helga Nadire İnan Ertürk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does reyhan şeker play?,Right-half,Q16223432,reyhan şeker,Q193592,Right-half,reyhan şeker --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Veysel Aksu play?,Right-half,Q1622596,Veysel Aksu,Q193592,Right-half,Veysel Aksu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does burak demiregen play?,Right-half,Q16235321,burak demiregen,Q193592,Right-half,burak demiregen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Emine Ecem Esen play?,Right-half,Q16236120,Emine Ecem Esen,Q193592,Right-half,Emine Ecem Esen --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Burak Can Kalender play?,Right-half,Q16236804,Burak Can Kalender,Q193592,Right-half,Burak Can Kalender --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does mehmet sıddık istemi play?,Right-half,Q1625241,mehmet sıddık istemi,Q193592,Right-half,mehmet sıddık istemi --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Ibrahim Serdar Aydin play?,Right-half,Q16442106,Ibrahim Serdar Aydin,Q193592,Right-half,Ibrahim Serdar Aydin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Huseyin Atalay play?,Right-half,Q1652469,Huseyin Atalay,Q193592,Right-half,Huseyin Atalay --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does huseyin kala play?,Right-half,Q1652477,huseyin kala,Q193592,Right-half,huseyin kala --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Huseyin Kalpar play?,Right-half,Q1652479,Huseyin Kalpar,Q193592,Right-half,Huseyin Kalpar --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does yücel uyar play?,Right-half,Q16707802,yücel uyar,Q193592,Right-half,yücel uyar --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does damla demirdön play?,Right-half,Q16728489,damla demirdön,Q193592,Right-half,damla demirdön --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does mevlude ozturk play?,Right-half,Q16735333,mevlude ozturk,Q193592,Right-half,mevlude ozturk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does İbrahim Tusder play?,Right-half,Q1674172,İbrahim Tusder,Q193592,Right-half,İbrahim Tusder --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Mehmet Sak play?,Right-half,Q167729,Mehmet Sak,Q193592,Right-half,Mehmet Sak --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does sinan tekerci play?,Right-half,Q16860061,sinan tekerci,Q193592,Right-half,sinan tekerci --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does muhammed akarslan play?,Right-half,Q16908483,muhammed akarslan,Q193592,Right-half,muhammed akarslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Yunus Emre Yalcin play?,Right-half,Q16908994,Yunus Emre Yalcin,Q193592,Right-half,Yunus Emre Yalcin --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does sedat özden play?,Right-half,Q1696213,sedat özden,Q193592,Right-half,sedat özden --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Ali Hamdemir play?,Right-half,Q1699597,Ali Hamdemir,Q193592,Right-half,Ali Hamdemir --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ianis hagi play?,Right-half,Q17045723,ianis hagi,Q193592,Right-half,ianis hagi --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Necdet Senturk play?,Right-half,Q17046975,Necdet Senturk,Q193592,Right-half,Necdet Senturk --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Mehmet Çolak play?,Right-half,Q17064123,Mehmet Çolak,Q193592,Right-half,Mehmet Çolak --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does yilmaz ozlem play?,Right-half,Q1717999,yilmaz ozlem,Q193592,Right-half,yilmaz ozlem --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Basak Ersoy play?,Right-half,Q17180585,Basak Ersoy,Q193592,Right-half,Basak Ersoy --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Hanife Demiryol play?,Right-half,Q17198637,Hanife Demiryol,Q193592,Right-half,Hanife Demiryol --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Kadir Keleş play?,Right-half,Q1720957,Kadir Keleş,Q193592,Right-half,Kadir Keleş --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does kamber arslan play?,Right-half,Q1722875,kamber arslan,Q193592,Right-half,kamber arslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does volkan arslan play?,Right-half,Q1726558,volkan arslan,Q193592,Right-half,volkan arslan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does kerem şeras play?,Right-half,Q1727116,kerem şeras,Q193592,Right-half,kerem şeras --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does funda payan play?,Right-half,Q17296465,funda payan,Q193592,Right-half,funda payan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hilal çetinkaya play?,Right-half,Q17305766,hilal çetinkaya,Q193592,Right-half,hilal çetinkaya --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does gülbin hız play?,Right-half,Q17306017,gülbin hız,Q193592,Right-half,gülbin hız --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Kemal Okyay play?,Right-half,Q1738452,Kemal Okyay,Q193592,Right-half,Kemal Okyay --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does hilal başkol play?,Right-half,Q17385626,hilal başkol,Q193592,Right-half,hilal başkol --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Ümit Yücel Eminoğlu play?,Right-half,Q17385882,Ümit Yücel Eminoğlu,Q193592,Right-half,Ümit Yücel Eminoğlu --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does kenan ozer play?,Right-half,Q1738690,kenan ozer,Q193592,Right-half,kenan ozer --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does mehmet sığırcı play?,Right-half,Q17418255,mehmet sığırcı,Q193592,Right-half,mehmet sığırcı --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Mehmet Tas play?,Right-half,Q17418282,Mehmet Tas,Q193592,Right-half,Mehmet Tas --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Osman Denizci play?,Right-half,Q17431648,Osman Denizci,Q193592,Right-half,Osman Denizci --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does ferhat yazgan play?,Right-half,Q17432155,ferhat yazgan,Q193592,Right-half,ferhat yazgan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does buse güngör play?,Right-half,Q17466116,buse güngör,Q193592,Right-half,buse güngör --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Umran Ozev play?,Right-half,Q17466592,Umran Ozev,Q193592,Right-half,Umran Ozev --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Köksal Yedek play?,Right-half,Q1748946,Köksal Yedek,Q193592,Right-half,Köksal Yedek --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does emrah cebeci play?,Right-half,Q17509027,emrah cebeci,Q193592,Right-half,emrah cebeci --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Emre Akbaba play?,Right-half,Q17540063,Emre Akbaba,Q193592,Right-half,Emre Akbaba --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does i̇rfan kahveci play?,Right-half,Q17708749,i̇rfan kahveci,Q193592,Right-half,i̇rfan kahveci --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Fahri Tatan play?,Right-half,Q178148,Fahri Tatan,Q193592,Right-half,Fahri Tatan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Adem Guven play?,Right-half,Q1796908,Adem Guven,Q193592,Right-half,Adem Guven --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Muhammed Mert play?,Right-half,Q18012228,Muhammed Mert,Q193592,Right-half,Muhammed Mert --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Dzhemal Kyzylatesh play?,Right-half,Q18066902,Dzhemal Kyzylatesh,Q193592,Right-half,Dzhemal Kyzylatesh --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Tolcay Ciğerci play?,Right-half,Q18122813,Tolcay Ciğerci,Q193592,Right-half,Tolcay Ciğerci --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does levent devrim play?,Right-half,Q1821769,levent devrim,Q193592,Right-half,levent devrim --[position played on team / speciality]--> Right-half
+pattern_d_player_position,"What position does Kilinc, David play?",Right-half,Q18411280,"Kilinc, David",Q193592,Right-half,"Kilinc, David --[position played on team / speciality]--> Right-half"
+pattern_d_player_position,What position does yüksel sariyar play?,Right-half,Q185249,yüksel sariyar,Q193592,Right-half,yüksel sariyar --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Serhat Koksal play?,Right-half,Q1854412,Serhat Koksal,Q193592,Right-half,Serhat Koksal --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does yekta kurtulus play?,Right-half,Q1858457,yekta kurtulus,Q193592,Right-half,yekta kurtulus --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Fatma Serdar play?,Right-half,Q18619480,Fatma Serdar,Q193592,Right-half,Fatma Serdar --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does gamze bezan play?,Right-half,Q18637167,gamze bezan,Q193592,Right-half,gamze bezan --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does fatos yildirim play?,Right-half,Q18638193,fatos yildirim,Q193592,Right-half,fatos yildirim --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does tuğba karataş play?,Right-half,Q18665691,tuğba karataş,Q193592,Right-half,tuğba karataş --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Lokman Gör play?,Right-half,Q1868561,Lokman Gör,Q193592,Right-half,Lokman Gör --[position played on team / speciality]--> Right-half
+pattern_d_player_position,What position does Başak İçinözbebek play?,Right-half,Q18687895,Başak İçinözbebek,Q193592,Right-half,Başak İçinözbebek --[position played on team / speciality]--> Right-half

@@ -1,0 +1,2087 @@
+[
+  {
+    "question_id": "TR_001",
+    "question_text": "Orhan Ovacıklı'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "member of sports team",
+      "caykur rizespor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_002",
+    "question_text": "Orhan Ovacıklı'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "member of sports team",
+      "Bandirmaspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_003",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "stuttgarter kickers seasons",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_004",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "stuttgarter kickers amateure",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_005",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "spvgg böblingen",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_006",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "fv illertissen",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_007",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "TSV Rain am Lech",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_008",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "Anadolu Selçukluspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_009",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "Kartalspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_010",
+    "question_text": "uğur yılmaz'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "SV Bonlanden",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_011",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "petrol ofisi s.k.",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_012",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Besiktas Jk",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_013",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "canakkale dardanelspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_014",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "trabzonspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_015",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "bursaspor kulübü derneği",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_016",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "fc akhmat grozny",
+      "country",
+      "Оросын Холбооны Улс"
+    ],
+    "gold_answer": "Оросын Холбооны Улс",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_017",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Gaziantepspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_018",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "i̇stanbulspor a.ş.",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_019",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "etimesgut şekerspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_020",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Samsunspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_021",
+    "question_text": "Orhan Ovacıklı'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "member of sports team",
+      "caykur rizespor",
+      "home venue",
+      "Yeni Rize Şehir Stadium"
+    ],
+    "gold_answer": "Yeni Rize Şehir Stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_022",
+    "question_text": "uğur yılmaz'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "stuttgarter kickers seasons",
+      "home venue",
+      "gazi stadium"
+    ],
+    "gold_answer": "gazi stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_023",
+    "question_text": "uğur yılmaz'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "Anadolu Selçukluspor",
+      "home venue",
+      "Konya Atatürk Stadyumu"
+    ],
+    "gold_answer": "Konya Atatürk Stadyumu",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_024",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "petrol ofisi s.k.",
+      "home venue",
+      "Cebeci İnönü Stadı"
+    ],
+    "gold_answer": "Cebeci İnönü Stadı",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_025",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Besiktas Jk",
+      "home venue",
+      "articles for creation/vodafone arena"
+    ],
+    "gold_answer": "articles for creation/vodafone arena",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_026",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "trabzonspor",
+      "home venue",
+      "huseyin avni aker stadium"
+    ],
+    "gold_answer": "huseyin avni aker stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_027",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "bursaspor kulübü derneği",
+      "home venue",
+      "Bursa Atatuerk stadium"
+    ],
+    "gold_answer": "Bursa Atatuerk stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_028",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "fc akhmat grozny",
+      "home venue",
+      "akhmad kadyrov arena"
+    ],
+    "gold_answer": "akhmad kadyrov arena",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_029",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Gaziantepspor",
+      "home venue",
+      "kamil ocak stadı"
+    ],
+    "gold_answer": "kamil ocak stadı",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_030",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "i̇stanbulspor a.ş.",
+      "home venue",
+      "bahcelievler stadium"
+    ],
+    "gold_answer": "bahcelievler stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_031",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Samsunspor",
+      "home venue",
+      "Samsun 19 Mayis Stadyumu"
+    ],
+    "gold_answer": "Samsun 19 Mayis Stadyumu",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_032",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Galatasaray F.C.",
+      "home venue",
+      "Türk Telekom Arena"
+    ],
+    "gold_answer": "Türk Telekom Arena",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_033",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Denizlispor",
+      "home venue",
+      "atatürk stadyumu (denizli)"
+    ],
+    "gold_answer": "atatürk stadyumu (denizli)",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_034",
+    "question_text": "selim ay'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "selim ay",
+      "member of sports team",
+      "Konya Idman Yurdu",
+      "home venue",
+      "Konya Atatürk Stadyumu"
+    ],
+    "gold_answer": "Konya Atatürk Stadyumu",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_035",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "trabzonspor",
+      "home venue",
+      "huseyin avni aker stadium"
+    ],
+    "gold_answer": "huseyin avni aker stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_036",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "Galatasaray F.C.",
+      "home venue",
+      "Türk Telekom Arena"
+    ],
+    "gold_answer": "Türk Telekom Arena",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_037",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "kayserispor",
+      "home venue",
+      "Kadir Has Stadium"
+    ],
+    "gold_answer": "Kadir Has Stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_038",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "sakaryaspor",
+      "home venue",
+      "Adapazari Atatuerk Stadium"
+    ],
+    "gold_answer": "Adapazari Atatuerk Stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_039",
+    "question_text": "kubilay aktaş'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "kubilay aktaş",
+      "member of sports team",
+      "Kasımpaşa S.K.",
+      "home venue",
+      "recep tayyip erdoğan stadium"
+    ],
+    "gold_answer": "recep tayyip erdoğan stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_040",
+    "question_text": "mustafa akçay'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "mustafa akçay",
+      "member of sports team",
+      "stuttgarter kickers seasons",
+      "home venue",
+      "gazi stadium"
+    ],
+    "gold_answer": "gazi stadium",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_041",
+    "question_text": "Orhan Ovacıklı nerede doğmuştur?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "place of birth",
+      "ismir, turkey"
+    ],
+    "gold_answer": "ismir, turkey",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_042",
+    "question_text": "uğur yılmaz nerede doğmuştur?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "place of birth",
+      "stuttgard"
+    ],
+    "gold_answer": "stuttgard",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_043",
+    "question_text": "Tamer Tuna (footballer, born 1976) nerede doğmuştur?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "place of birth",
+      "Hanak"
+    ],
+    "gold_answer": "Hanak",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_044",
+    "question_text": "selim ay nerede doğmuştur?",
+    "reasoning_path": [
+      "selim ay",
+      "place of birth",
+      "attalea in pamphylia"
+    ],
+    "gold_answer": "attalea in pamphylia",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_045",
+    "question_text": "Salih Dursun nerede doğmuştur?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "place of birth",
+      "sakarya province"
+    ],
+    "gold_answer": "sakarya province",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_046",
+    "question_text": "kubilay aktaş nerede doğmuştur?",
+    "reasoning_path": [
+      "kubilay aktaş",
+      "place of birth",
+      "iso 3166-1:fr"
+    ],
+    "gold_answer": "iso 3166-1:fr",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_047",
+    "question_text": "mustafa akçay nerede doğmuştur?",
+    "reasoning_path": [
+      "mustafa akçay",
+      "place of birth",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_048",
+    "question_text": "giray bulak nerede doğmuştur?",
+    "reasoning_path": [
+      "giray bulak",
+      "place of birth",
+      "Trabzon Province"
+    ],
+    "gold_answer": "Trabzon Province",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_049",
+    "question_text": "onur akdoğan nerede doğmuştur?",
+    "reasoning_path": [
+      "onur akdoğan",
+      "place of birth",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_050",
+    "question_text": "fuat buruk nerede doğmuştur?",
+    "reasoning_path": [
+      "fuat buruk",
+      "place of birth",
+      "istanbul (turkey)"
+    ],
+    "gold_answer": "istanbul (turkey)",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_051",
+    "question_text": "atabey cicek nerede doğmuştur?",
+    "reasoning_path": [
+      "atabey cicek",
+      "place of birth",
+      "Yenimahalle"
+    ],
+    "gold_answer": "Yenimahalle",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_052",
+    "question_text": "atabey cicek nerede doğmuştur?",
+    "reasoning_path": [
+      "atabey cicek",
+      "place of birth",
+      "Angora, Turkey"
+    ],
+    "gold_answer": "Angora, Turkey",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_053",
+    "question_text": "huseyin kartal nerede doğmuştur?",
+    "reasoning_path": [
+      "huseyin kartal",
+      "place of birth",
+      "egridir"
+    ],
+    "gold_answer": "egridir",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_054",
+    "question_text": "Mehmet Kara nerede doğmuştur?",
+    "reasoning_path": [
+      "Mehmet Kara",
+      "place of birth",
+      "Werne"
+    ],
+    "gold_answer": "Werne",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_055",
+    "question_text": "Tuğrul Erat nerede doğmuştur?",
+    "reasoning_path": [
+      "Tuğrul Erat",
+      "place of birth",
+      "Ohligs"
+    ],
+    "gold_answer": "Ohligs",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_056",
+    "question_text": "Metin Sevinc nerede doğmuştur?",
+    "reasoning_path": [
+      "Metin Sevinc",
+      "place of birth",
+      "fatih"
+    ],
+    "gold_answer": "fatih",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_057",
+    "question_text": "i̇brahim sürgülü nerede doğmuştur?",
+    "reasoning_path": [
+      "i̇brahim sürgülü",
+      "place of birth",
+      "Angora, Turkey"
+    ],
+    "gold_answer": "Angora, Turkey",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_058",
+    "question_text": "i̇brahim sürgülü nerede doğmuştur?",
+    "reasoning_path": [
+      "i̇brahim sürgülü",
+      "place of birth",
+      "history of polatlı"
+    ],
+    "gold_answer": "history of polatlı",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_059",
+    "question_text": "Kemal Yıldırım nerede doğmuştur?",
+    "reasoning_path": [
+      "Kemal Yıldırım",
+      "place of birth",
+      "Ordu"
+    ],
+    "gold_answer": "Ordu",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_060",
+    "question_text": "Ali Artuner nerede doğmuştur?",
+    "reasoning_path": [
+      "Ali Artuner",
+      "place of birth",
+      "ismir, turkey"
+    ],
+    "gold_answer": "ismir, turkey",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_061",
+    "question_text": "mertol karatay'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "mertol karatay",
+      "country of citizenship",
+      "Brzil"
+    ],
+    "gold_answer": "Brzil",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_062",
+    "question_text": "Mehmet Aurélio'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Mehmet Aurélio",
+      "country of citizenship",
+      "Brzil"
+    ],
+    "gold_answer": "Brzil",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_063",
+    "question_text": "Sidney Cristiano Dos Santos'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Sidney Cristiano Dos Santos",
+      "country of citizenship",
+      "Brzil"
+    ],
+    "gold_answer": "Brzil",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_064",
+    "question_text": "jabá'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "jabá",
+      "country of citizenship",
+      "Brzil"
+    ],
+    "gold_answer": "Brzil",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_065",
+    "question_text": "Wederson Luis da Silva Medeiros'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Wederson Luis da Silva Medeiros",
+      "country of citizenship",
+      "Brzil"
+    ],
+    "gold_answer": "Brzil",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_066",
+    "question_text": "Márcio Ferreira Nobre'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Márcio Ferreira Nobre",
+      "country of citizenship",
+      "Brzil"
+    ],
+    "gold_answer": "Brzil",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_067",
+    "question_text": "uğur yılmaz'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_068",
+    "question_text": "Tuğrul Erat'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Tuğrul Erat",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_069",
+    "question_text": "Günay Güvenc'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Günay Güvenc",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_070",
+    "question_text": "turgay golbasi'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "turgay golbasi",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_071",
+    "question_text": "Halil Altıntop'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Halil Altıntop",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_072",
+    "question_text": "kerim avcı'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "kerim avcı",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_073",
+    "question_text": "berkan afsarli'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "berkan afsarli",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_074",
+    "question_text": "Deniz Siğa'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Deniz Siğa",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_075",
+    "question_text": "Kenan Karaman'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Kenan Karaman",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_076",
+    "question_text": "Irfan Buz'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "Irfan Buz",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_077",
+    "question_text": "olcay turhan'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "olcay turhan",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_078",
+    "question_text": "sinan tekerci'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "sinan tekerci",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_079",
+    "question_text": "josef cinar'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "josef cinar",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_080",
+    "question_text": "volkan arslan'ın vatandaşlığı nedir?",
+    "reasoning_path": [
+      "volkan arslan",
+      "country of citizenship",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "2-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_081",
+    "question_text": "Partiya Demokratik a Gelan şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Partiya Demokratik a Gelan",
+      "headquarters location",
+      "çankaya, ankara (district)",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_082",
+    "question_text": "Kecioerenguecue şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Kecioerenguecue",
+      "headquarters location",
+      "Angora, Turkey",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_083",
+    "question_text": "Giresunspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Giresunspor",
+      "headquarters location",
+      "Kerasous",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_084",
+    "question_text": "union and progress party şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "union and progress party",
+      "headquarters location",
+      "istanbul (turkey)",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_085",
+    "question_text": "union and progress party şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "union and progress party",
+      "headquarters location",
+      "istanbul (turkey)",
+      "country",
+      "byzantine (eastern roman) empire"
+    ],
+    "gold_answer": "byzantine (eastern roman) empire",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_086",
+    "question_text": "union and progress party şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "union and progress party",
+      "headquarters location",
+      "istanbul (turkey)",
+      "country",
+      "Ottoman empire"
+    ],
+    "gold_answer": "Ottoman empire",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_087",
+    "question_text": "Güleryüz şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Güleryüz",
+      "headquarters location",
+      "Gemlik",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_088",
+    "question_text": "siirtspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "siirtspor",
+      "headquarters location",
+      "Parêzgeha Sêrt",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_089",
+    "question_text": "TKİ Tavşanlı Linyitspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "TKİ Tavşanlı Linyitspor",
+      "headquarters location",
+      "Cotiæum",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_090",
+    "question_text": "petrol ofisi s.k. şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "petrol ofisi s.k.",
+      "headquarters location",
+      "Angora, Turkey",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_091",
+    "question_text": "alanyaspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "alanyaspor",
+      "headquarters location",
+      "Coracesium",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_092",
+    "question_text": "Kahramanmarasspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Kahramanmarasspor",
+      "headquarters location",
+      "maraş, turkey",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_093",
+    "question_text": "Izmirspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Izmirspor",
+      "headquarters location",
+      "ismir, turkey",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_094",
+    "question_text": "Izmirspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Izmirspor",
+      "headquarters location",
+      "ismir, turkey",
+      "country",
+      "Ottoman empire"
+    ],
+    "gold_answer": "Ottoman empire",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_095",
+    "question_text": "Besiktas Jk şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Besiktas Jk",
+      "headquarters location",
+      "istanbul (turkey)",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_096",
+    "question_text": "Besiktas Jk şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Besiktas Jk",
+      "headquarters location",
+      "istanbul (turkey)",
+      "country",
+      "byzantine (eastern roman) empire"
+    ],
+    "gold_answer": "byzantine (eastern roman) empire",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_097",
+    "question_text": "Besiktas Jk şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Besiktas Jk",
+      "headquarters location",
+      "istanbul (turkey)",
+      "country",
+      "Ottoman empire"
+    ],
+    "gold_answer": "Ottoman empire",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_098",
+    "question_text": "yozgatspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "yozgatspor",
+      "headquarters location",
+      "Yuzgad",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_099",
+    "question_text": "orduspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "orduspor",
+      "headquarters location",
+      "Ordu Province",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_100",
+    "question_text": "kırıkkalespor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "kırıkkalespor",
+      "headquarters location",
+      "kırıkkale",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "business"
+  },
+  {
+    "question_id": "TR_101",
+    "question_text": "emre simsek hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "emre simsek",
+      "educated at",
+      "Atatürk Üniversitesi"
+    ],
+    "gold_answer": "Atatürk Üniversitesi",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_102",
+    "question_text": "Orel Oral hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "Orel Oral",
+      "educated at",
+      "University of Indianapolis Press"
+    ],
+    "gold_answer": "University of Indianapolis Press",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_103",
+    "question_text": "selim koray hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "selim koray",
+      "educated at",
+      "lycée saint-joseph"
+    ],
+    "gold_answer": "lycée saint-joseph",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_104",
+    "question_text": "ziya songulen hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "ziya songulen",
+      "educated at",
+      "lycée saint-joseph"
+    ],
+    "gold_answer": "lycée saint-joseph",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_105",
+    "question_text": "Yalçin Granit hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "Yalçin Granit",
+      "educated at",
+      "darüşşafaka high school"
+    ],
+    "gold_answer": "darüşşafaka high school",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_106",
+    "question_text": "a. nugetre hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "a. nugetre",
+      "educated at",
+      "St. John's Cadets football"
+    ],
+    "gold_answer": "St. John's Cadets football",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_107",
+    "question_text": "Senes Erzik hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "Senes Erzik",
+      "educated at",
+      "amerikan robert lisesi"
+    ],
+    "gold_answer": "amerikan robert lisesi",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_108",
+    "question_text": "şeyma erenli hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "şeyma erenli",
+      "educated at",
+      "indiana state"
+    ],
+    "gold_answer": "indiana state",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_109",
+    "question_text": "erdowan hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "erdowan",
+      "educated at",
+      "erasmus/socrates partners of marmara university"
+    ],
+    "gold_answer": "erasmus/socrates partners of marmara university",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_110",
+    "question_text": "Abdullah Kiğılı hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "Abdullah Kiğılı",
+      "educated at",
+      "istanbul lisesi"
+    ],
+    "gold_answer": "istanbul lisesi",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_111",
+    "question_text": "ali cafer çağatay hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "ali cafer çağatay",
+      "educated at",
+      "lycée saint-joseph"
+    ],
+    "gold_answer": "lycée saint-joseph",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_112",
+    "question_text": "mustapha kemal pasha hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "mustapha kemal pasha",
+      "educated at",
+      "Manastır Askerî İdadisi"
+    ],
+    "gold_answer": "Manastır Askerî İdadisi",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_113",
+    "question_text": "mustapha kemal pasha hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "mustapha kemal pasha",
+      "educated at",
+      "Ottoman Army War College"
+    ],
+    "gold_answer": "Ottoman Army War College",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_114",
+    "question_text": "mustapha kemal pasha hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "mustapha kemal pasha",
+      "educated at",
+      "Ottoman War Academy"
+    ],
+    "gold_answer": "Ottoman War Academy",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_115",
+    "question_text": "emine ülker tarhan hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "emine ülker tarhan",
+      "educated at",
+      "ankara university law school"
+    ],
+    "gold_answer": "ankara university law school",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_116",
+    "question_text": "fikret orman hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "fikret orman",
+      "educated at",
+      "univ.of florida"
+    ],
+    "gold_answer": "univ.of florida",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_117",
+    "question_text": "gulsah kiyak hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "gulsah kiyak",
+      "educated at",
+      "Uludağ Universitesi"
+    ],
+    "gold_answer": "Uludağ Universitesi",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_118",
+    "question_text": "Galip Kulaksızoğlu hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "Galip Kulaksızoğlu",
+      "educated at",
+      "lycée saint-joseph"
+    ],
+    "gold_answer": "lycée saint-joseph",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_119",
+    "question_text": "nevra serezli hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "nevra serezli",
+      "educated at",
+      "amerikan robert lisesi"
+    ],
+    "gold_answer": "amerikan robert lisesi",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_120",
+    "question_text": "Derya Buyukuncu hangi üniversitede eğitim almıştır?",
+    "reasoning_path": [
+      "Derya Buyukuncu",
+      "educated at",
+      "lsa student judiciary"
+    ],
+    "gold_answer": "lsa student judiciary",
+    "difficulty": "2-hop",
+    "domain": "academia"
+  },
+  {
+    "question_id": "TR_121",
+    "question_text": "Orhan Ovacıklı'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "member of sports team",
+      "caykur rizespor",
+      "home venue",
+      "Yeni Rize Şehir Stadium",
+      "location",
+      "Rizounta"
+    ],
+    "gold_answer": "Rizounta",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_122",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "petrol ofisi s.k.",
+      "home venue",
+      "Cebeci İnönü Stadı",
+      "location",
+      "Angora, Turkey"
+    ],
+    "gold_answer": "Angora, Turkey",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_123",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Besiktas Jk",
+      "home venue",
+      "articles for creation/vodafone arena",
+      "location",
+      "bechiktache"
+    ],
+    "gold_answer": "bechiktache",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_124",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "trabzonspor",
+      "home venue",
+      "huseyin avni aker stadium",
+      "location",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_125",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "bursaspor kulübü derneği",
+      "home venue",
+      "Bursa Atatuerk stadium",
+      "location",
+      "Bursa, Turkey"
+    ],
+    "gold_answer": "Bursa, Turkey",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_126",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Gaziantepspor",
+      "home venue",
+      "kamil ocak stadı",
+      "location",
+      "ayntab"
+    ],
+    "gold_answer": "ayntab",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_127",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Samsunspor",
+      "home venue",
+      "Samsun 19 Mayis Stadyumu",
+      "location",
+      "samsun, turkey"
+    ],
+    "gold_answer": "samsun, turkey",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_128",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Galatasaray F.C.",
+      "home venue",
+      "Türk Telekom Arena",
+      "location",
+      "sisli"
+    ],
+    "gold_answer": "sisli",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_129",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Denizlispor",
+      "home venue",
+      "atatürk stadyumu (denizli)",
+      "location",
+      "denizli"
+    ],
+    "gold_answer": "denizli",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_130",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "trabzonspor",
+      "home venue",
+      "huseyin avni aker stadium",
+      "location",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_131",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "Galatasaray F.C.",
+      "home venue",
+      "Türk Telekom Arena",
+      "location",
+      "sisli"
+    ],
+    "gold_answer": "sisli",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_132",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "kayserispor",
+      "home venue",
+      "Kadir Has Stadium",
+      "location",
+      "kaisari"
+    ],
+    "gold_answer": "kaisari",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_133",
+    "question_text": "Salih Dursun'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "member of sports team",
+      "sakaryaspor",
+      "home venue",
+      "Adapazari Atatuerk Stadium",
+      "location",
+      "adapazar"
+    ],
+    "gold_answer": "adapazar",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_134",
+    "question_text": "kubilay aktaş'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "kubilay aktaş",
+      "member of sports team",
+      "Kasımpaşa S.K.",
+      "home venue",
+      "recep tayyip erdoğan stadium",
+      "location",
+      "kasımpaşa (district)"
+    ],
+    "gold_answer": "kasımpaşa (district)",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_135",
+    "question_text": "mustafa akçay'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "mustafa akçay",
+      "member of sports team",
+      "adanaspor",
+      "home venue",
+      "5 ocak stadium",
+      "location",
+      "adanija"
+    ],
+    "gold_answer": "adanija",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_136",
+    "question_text": "Orhan Ovacıklı'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "member of sports team",
+      "caykur rizespor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_137",
+    "question_text": "Orhan Ovacıklı'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "member of sports team",
+      "Bandirmaspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_138",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "stuttgarter kickers seasons",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_139",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "stuttgarter kickers amateure",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_140",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "spvgg böblingen",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_141",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "fv illertissen",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_142",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "TSV Rain am Lech",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_143",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "Anadolu Selçukluspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_144",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "Kartalspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_145",
+    "question_text": "uğur yılmaz'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "member of sports team",
+      "SV Bonlanden",
+      "country",
+      "Germanz"
+    ],
+    "gold_answer": "Germanz",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_146",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "petrol ofisi s.k.",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_147",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "Besiktas Jk",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_148",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "canakkale dardanelspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_149",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "trabzonspor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_150",
+    "question_text": "Tamer Tuna (footballer, born 1976)'ın oynadığı kulübün bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "member of sports team",
+      "bursaspor kulübü derneği",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_151",
+    "question_text": "Orhan Ovacıklı ile Abdulkadir Parmak aynı yerde mi doğmuştur?",
+    "reasoning_path": [
+      "Orhan Ovacıklı",
+      "place of birth",
+      "ismir, turkey",
+      "Abdulkadir Parmak",
+      "place of birth",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "comparison",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_152",
+    "question_text": "uğur yılmaz ile Abdulkadir Parmak aynı yerde mi doğmuştur?",
+    "reasoning_path": [
+      "uğur yılmaz",
+      "place of birth",
+      "stuttgard",
+      "Abdulkadir Parmak",
+      "place of birth",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "comparison",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_153",
+    "question_text": "Tamer Tuna (footballer, born 1976) ile Abdulkadir Parmak aynı yerde mi doğmuştur?",
+    "reasoning_path": [
+      "Tamer Tuna (footballer, born 1976)",
+      "place of birth",
+      "Hanak",
+      "Abdulkadir Parmak",
+      "place of birth",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "comparison",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_154",
+    "question_text": "selim ay ile Abdulkadir Parmak aynı yerde mi doğmuştur?",
+    "reasoning_path": [
+      "selim ay",
+      "place of birth",
+      "attalea in pamphylia",
+      "Abdulkadir Parmak",
+      "place of birth",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "comparison",
+    "domain": "sports"
+  },
+  {
+    "question_id": "TR_155",
+    "question_text": "Salih Dursun ile Abdulkadir Parmak aynı yerde mi doğmuştur?",
+    "reasoning_path": [
+      "Salih Dursun",
+      "place of birth",
+      "sakarya province",
+      "Abdulkadir Parmak",
+      "place of birth",
+      "history of trabzon"
+    ],
+    "gold_answer": "history of trabzon",
+    "difficulty": "comparison",
+    "domain": "sports"
+  }
+]

@@ -1,0 +1,301 @@
+rel1,rel2,rel3,freq,usable
+country,diplomatic relation,diplomatic relation,45521582,True
+country of citizenship,diplomatic relation,diplomatic relation,20925478,True
+country,diplomatic relation,contains administrative territorial entity,17820560,True
+country,diplomatic relation,member of,15029754,True
+country of citizenship,diplomatic relation,contains administrative territorial entity,8216553,True
+country of citizenship,diplomatic relation,member of,6873085,True
+country,shares border with,diplomatic relation,6109212,True
+diplomatic relation,diplomatic relation,diplomatic relation,5156555,True
+country,diplomatic relation,shares border with,5132078,True
+country,diplomatic relation,head of government,4825944,True
+country,diplomatic relation,head of state,4128851,True
+country,shares border with,contains administrative territorial entity,3296506,True
+country,diplomatic relation,instance of,3080813,False
+country of origin,diplomatic relation,diplomatic relation,2857448,True
+country of citizenship,shares border with,diplomatic relation,2784530,True
+country,diplomatic relation,located in time zone,2664104,True
+country,diplomatic relation,public holiday,2621659,True
+country,diplomatic relation,ethnic group,2405592,True
+country of citizenship,diplomatic relation,shares border with,2355818,True
+country of citizenship,diplomatic relation,head of government,2199216,True
+country,diplomatic relation,official language,2098955,True
+diplomatic relation,diplomatic relation,contains administrative territorial entity,1928144,True
+country of citizenship,diplomatic relation,head of state,1888570,True
+country,shares border with,member of,1681741,True
+diplomatic relation,diplomatic relation,member of,1505203,True
+country of citizenship,shares border with,contains administrative territorial entity,1483704,True
+country,shares border with,shares border with,1449285,True
+country of citizenship,diplomatic relation,instance of,1414877,False
+country,diplomatic relation,currency,1278801,True
+country of citizenship,diplomatic relation,located in time zone,1219414,True
+country of citizenship,diplomatic relation,public holiday,1202583,True
+country,diplomatic relation,electrical plug type,1170964,True
+country,country,contains administrative territorial entity,1158577,True
+country,contains administrative territorial entity,capital,1144692,True
+country,contains administrative territorial entity,instance of,1144692,False
+country,contains administrative territorial entity,country,1144611,True
+country of origin,diplomatic relation,contains administrative territorial entity,1123078,True
+country of citizenship,diplomatic relation,ethnic group,1113300,True
+country,diplomatic relation,top-level Internet domain,999252,True
+country,diplomatic relation,basic form of government,983707,True
+country of citizenship,diplomatic relation,official language,962649,True
+country,contains administrative territorial entity,contains administrative territorial entity,960976,True
+country of origin,diplomatic relation,member of,929009,True
+country,diplomatic relation,anthem,911735,True
+country,shares border with,currency,882290,True
+country,diplomatic relation,highest point,866886,True
+country,country,diplomatic relation,863207,True
+country,diplomatic relation,part of,856491,False
+country,diplomatic relation,emergency phone number,853901,True
+country,diplomatic relation,legislative body,853744,True
+country,diplomatic relation,country,852313,True
+country,diplomatic relation,flag,838396,True
+country,diplomatic relation,geography of topic,823856,True
+country,diplomatic relation,history of topic,810350,True
+country,diplomatic relation,capital,810201,True
+narrative location,diplomatic relation,diplomatic relation,804967,True
+country of citizenship,shares border with,member of,801276,True
+country,diplomatic relation,coat of arms,794658,True
+country,diplomatic relation,topic's main Wikimedia portal,780913,True
+country,diplomatic relation,office held by head of government,766313,True
+country,diplomatic relation,described by source,753198,True
+country,diplomatic relation,lowest point,722647,True
+country,diplomatic relation,located in or next to body of water,707583,True
+located in the administrative territorial entity,country,contains administrative territorial entity,696018,True
+country,diplomatic relation,continent,680498,True
+member of sports team,country,contains administrative territorial entity,668362,True
+country of citizenship,shares border with,shares border with,655492,True
+country,shares border with,instance of,589279,False
+country of citizenship,diplomatic relation,currency,585006,True
+country,diplomatic relation,executive body,579230,True
+country,ethnic group,country,566572,True
+diplomatic relation,diplomatic relation,shares border with,562231,True
+country of citizenship,diplomatic relation,electrical plug type,538929,True
+country of citizenship,country,contains administrative territorial entity,517242,True
+shares border with,diplomatic relation,diplomatic relation,516585,True
+country,capital,twinned administrative body,509661,True
+country,member of,director/manager,508673,True
+located in the administrative territorial entity,country,diplomatic relation,507119,True
+country,diplomatic relation,highest judicial authority,506881,True
+diplomatic relation,diplomatic relation,head of government,506829,True
+country of citizenship,contains administrative territorial entity,capital,506412,True
+country of citizenship,contains administrative territorial entity,instance of,506412,False
+country of citizenship,contains administrative territorial entity,country,506412,True
+country,shares border with,official language,489275,True
+member of sports team,country,diplomatic relation,486906,True
+country,shares border with,head of government,468097,True
+country,diplomatic relation,language used,466019,True
+country of citizenship,diplomatic relation,top-level Internet domain,458688,True
+country of citizenship,diplomatic relation,basic form of government,451482,True
+country,diplomatic relation,office held by head of state,449973,True
+diplomatic relation,shares border with,diplomatic relation,441352,True
+country,diplomatic relation,significant event,434149,True
+diplomatic relation,diplomatic relation,head of state,427264,True
+country of citizenship,contains administrative territorial entity,contains administrative territorial entity,425136,True
+country,head of government,occupation,423960,True
+country of citizenship,country,diplomatic relation,422450,True
+country,shares border with,head of state,421359,True
+country,diplomatic relation,named after,419448,True
+country of citizenship,diplomatic relation,anthem,419261,True
+country of citizenship,diplomatic relation,highest point,397819,True
+country,head of state,award received,395696,True
+country of citizenship,diplomatic relation,part of,394827,False
+country of citizenship,shares border with,currency,393944,True
+place of birth,diplomatic relation,diplomatic relation,392653,True
+country of citizenship,diplomatic relation,emergency phone number,392610,True
+country of citizenship,diplomatic relation,legislative body,392552,True
+country of citizenship,diplomatic relation,country,392063,True
+country,diplomatic relation,has part,387496,True
+country of citizenship,diplomatic relation,flag,385291,True
+country,continent,located in time zone,384291,True
+country of citizenship,diplomatic relation,geography of topic,378597,True
+country,member of,has part,373680,True
+country of citizenship,diplomatic relation,history of topic,373404,True
+country of citizenship,diplomatic relation,capital,371846,True
+country of origin,shares border with,diplomatic relation,370792,True
+country of citizenship,diplomatic relation,coat of arms,365131,True
+country,member of,instance of,361823,False
+country of citizenship,diplomatic relation,topic's main Wikimedia portal,358990,True
+place of birth,country,contains administrative territorial entity,356837,True
+country of citizenship,diplomatic relation,office held by head of government,352361,True
+country of citizenship,diplomatic relation,described by source,345406,True
+instance of,country,contains administrative territorial entity,341172,False
+country,member of,founded by,336884,True
+country,shares border with,public holiday,332817,True
+country of citizenship,diplomatic relation,lowest point,332256,True
+country of origin,diplomatic relation,shares border with,321381,True
+country of citizenship,diplomatic relation,located in or next to body of water,319430,True
+country,shares border with,located in time zone,318983,True
+country,shares border with,ethnic group,317793,True
+narrative location,diplomatic relation,contains administrative territorial entity,313754,True
+country of citizenship,diplomatic relation,continent,311361,True
+diplomatic relation,diplomatic relation,instance of,307359,False
+country,country,member of,306089,True
+facet of,diplomatic relation,diplomatic relation,300960,True
+country of origin,diplomatic relation,head of government,298888,True
+country,member of,official language,280014,True
+country,diplomatic relation,central bank,274787,True
+diplomatic relation,diplomatic relation,located in time zone,273961,True
+diplomatic relation,diplomatic relation,public holiday,273289,True
+participant,diplomatic relation,diplomatic relation,272815,True
+country of citizenship,shares border with,instance of,268854,False
+country of citizenship,diplomatic relation,executive body,266499,True
+narrative location,diplomatic relation,member of,263784,True
+place of birth,country,diplomatic relation,261414,True
+country of citizenship,ethnic group,country,257346,True
+diplomatic relation,diplomatic relation,ethnic group,257028,True
+country of origin,diplomatic relation,head of state,256408,True
+instance of,country,diplomatic relation,248508,False
+filming location,diplomatic relation,diplomatic relation,242078,True
+country of citizenship,member of,director/manager,234595,True
+country of citizenship,capital,twinned administrative body,231637,True
+country of citizenship,shares border with,head of government,231500,True
+country of citizenship,diplomatic relation,highest judicial authority,230393,True
+country,shares border with,continent,229221,True
+country,head of government,educated at,226112,True
+diplomatic relation,diplomatic relation,official language,221262,True
+diplomatic relation,shares border with,contains administrative territorial entity,220934,True
+country of citizenship,shares border with,official language,220445,True
+country,diplomatic relation,replaces,217262,True
+country of citizenship,diplomatic relation,language used,213631,True
+country of citizenship,diplomatic relation,office held by head of state,207486,True
+country of citizenship,shares border with,head of state,203739,True
+country,shares border with,electrical plug type,201474,True
+country,shares border with,top-level Internet domain,201132,True
+country,shares border with,part of,200329,False
+country of citizenship,diplomatic relation,significant event,195461,True
+country of origin,shares border with,contains administrative territorial entity,193077,True
+country of origin,diplomatic relation,instance of,192095,False
+country of citizenship,diplomatic relation,named after,190268,True
+country,member of,headquarters location,188052,True
+shares border with,diplomatic relation,contains administrative territorial entity,187844,True
+country of citizenship,head of government,occupation,187560,True
+country,shares border with,anthem,186385,True
+located in the administrative territorial entity,country,member of,180501,True
+country of citizenship,diplomatic relation,has part,178797,True
+country of citizenship,head of state,award received,175056,True
+country,country,shares border with,173490,True
+member of sports team,country,member of,173314,True
+country,shares border with,described by source,172245,True
+country,shares border with,legislative body,172241,True
+country of citizenship,member of,has part,171389,True
+country of citizenship,continent,located in time zone,169506,True
+location,diplomatic relation,diplomatic relation,169287,True
+country of citizenship,member of,instance of,165230,False
+country of origin,diplomatic relation,located in time zone,164639,True
+country of origin,diplomatic relation,public holiday,162316,True
+country,diplomatic relation,participant of,160347,True
+country,shares border with,emergency phone number,157877,True
+country,shares border with,flag,157828,True
+country,shares border with,geography of topic,157811,True
+country,shares border with,history of topic,157785,True
+country of citizenship,shares border with,public holiday,157771,True
+country,shares border with,office held by head of government,157684,True
+country,shares border with,office held by head of state,157418,True
+country,head of state,occupation,155452,True
+country,head of government,position held,155452,True
+diplomatic relation,diplomatic relation,currency,152992,True
+place of birth,diplomatic relation,contains administrative territorial entity,152036,True
+country of origin,diplomatic relation,ethnic group,151580,True
+country of citizenship,country,member of,151431,True
+country of citizenship,shares border with,located in time zone,150591,True
+shares border with,diplomatic relation,member of,149026,True
+country of citizenship,member of,founded by,148897,True
+country,country,head of government,144403,True
+country,shares border with,basic form of government,144296,True
+country,shares border with,topic's main Wikimedia portal,143579,True
+country of citizenship,shares border with,ethnic group,142144,True
+country,shares border with,founded by,141814,True
+country,head of government,"languages spoken, written or signed",141320,True
+country,head of government,member of political party,141320,True
+country,head of government,country of citizenship,141320,True
+country,head of government,instance of,141320,False
+diplomatic relation,country,diplomatic relation,139913,True
+place of death,diplomatic relation,diplomatic relation,136527,True
+diplomatic relation,shares border with,member of,135841,True
+country,diplomatic relation,patron saint,130117,True
+country of origin,diplomatic relation,official language,130090,True
+country,shares border with,coat of arms,129475,True
+country,shares border with,country,129421,True
+country,shares border with,capital,129093,True
+member of sports team,headquarters location,twinned administrative body,129018,True
+country of citizenship,diplomatic relation,central bank,127222,True
+country,head of government,place of birth,127188,True
+country of citizenship,member of,official language,126892,True
+place of birth,diplomatic relation,member of,125780,True
+located in the administrative territorial entity,diplomatic relation,diplomatic relation,119130,True
+facet of,diplomatic relation,contains administrative territorial entity,118080,True
+country,diplomatic relation,official symbol,115946,True
+country,member of,country,115878,True
+country,diplomatic relation,main regulatory text,115867,True
+country,diplomatic relation,located on terrain feature,115616,True
+country,shares border with,highest point,115397,True
+country,shares border with,significant event,115192,True
+diplomatic relation,diplomatic relation,electrical plug type,115029,True
+country,ethnic group,religion,113318,True
+country,head of state,member of political party,113056,True
+country,head of state,position held,113056,True
+legal form,diplomatic relation,diplomatic relation,111761,True
+cast member,country of citizenship,contains administrative territorial entity,111493,True
+country of origin,shares border with,member of,110392,True
+narrative location,shares border with,diplomatic relation,105816,True
+country of citizenship,shares border with,continent,104291,True
+diplomatic relation,diplomatic relation,top-level Internet domain,104226,True
+located in the administrative territorial entity,country,shares border with,103137,True
+has part,diplomatic relation,diplomatic relation,102857,True
+country,continent,has part,101360,True
+country,shares border with,lowest point,100914,True
+country,member of,chairperson,100832,True
+participant,diplomatic relation,contains administrative territorial entity,100370,True
+country of citizenship,head of government,educated at,100032,True
+country of citizenship,diplomatic relation,replaces,99925,True
+facet of,diplomatic relation,member of,99744,True
+member of sports team,country,shares border with,99024,True
+diplomatic relation,diplomatic relation,basic form of government,98930,True
+diplomatic relation,diplomatic relation,part of,97722,False
+filming location,diplomatic relation,contains administrative territorial entity,93444,True
+place of birth,country,member of,93135,True
+diplomatic relation,diplomatic relation,anthem,92856,True
+country of citizenship,shares border with,top-level Internet domain,92180,True
+country of citizenship,shares border with,electrical plug type,91527,True
+narrative location,diplomatic relation,shares border with,90398,True
+country of citizenship,shares border with,part of,89650,False
+instance of,country,member of,88452,False
+country,member of,part of,87895,False
+country,emergency phone number,country,87379,True
+country,diplomatic relation,motto,87309,True
+diplomatic relation,diplomatic relation,legislative body,87236,True
+diplomatic relation,diplomatic relation,emergency phone number,87160,True
+cast member,country of citizenship,diplomatic relation,87098,True
+country,shares border with,executive body,86516,True
+country,continent,part of,86139,False
+located in the administrative territorial entity,country,head of government,85958,True
+country,lowest point,basin country,85734,True
+country of citizenship,member of,headquarters location,85381,True
+narrative location,diplomatic relation,head of government,85252,True
+country,head of state,educated at,84792,True
+country of citizenship,shares border with,anthem,84474,True
+country of origin,shares border with,shares border with,83882,True
+diplomatic relation,diplomatic relation,history of topic,82994,True
+diplomatic relation,diplomatic relation,highest point,82776,True
+member of sports team,country,head of government,82508,True
+diplomatic relation,diplomatic relation,flag,81845,True
+diplomatic relation,diplomatic relation,capital,81794,True
+diplomatic relation,diplomatic relation,country,81487,True
+country of citizenship,country,shares border with,80588,True
+country of origin,diplomatic relation,currency,80307,True
+diplomatic relation,diplomatic relation,geography of topic,80151,True
+country of citizenship,shares border with,described by source,78828,True
+diplomatic relation,diplomatic relation,described by source,78482,True
+participant,diplomatic relation,member of,78232,True
+country of citizenship,shares border with,legislative body,77970,True
+diplomatic relation,diplomatic relation,topic's main Wikimedia portal,77889,True
+filming location,diplomatic relation,member of,77786,True
+diplomatic relation,diplomatic relation,coat of arms,76404,True
+diplomatic relation,diplomatic relation,office held by head of government,75546,True
+country of citizenship,diplomatic relation,participant of,73700,True
+country of origin,diplomatic relation,electrical plug type,73224,True
+country,country,head of state,73169,True
+country,diplomatic relation,award received,72743,True
+narrative location,diplomatic relation,head of state,72667,True

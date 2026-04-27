@@ -1,0 +1,301 @@
+rel1,rel2,freq,usable
+country,contains administrative territorial entity,1159760,True
+country,diplomatic relation,866710,True
+country of citizenship,contains administrative territorial entity,517252,True
+country of citizenship,diplomatic relation,422626,True
+country,member of,307522,True
+country,shares border with,173842,True
+country of citizenship,member of,151475,True
+diplomatic relation,diplomatic relation,145868,True
+country,head of government,144926,True
+place of birth,twinned administrative body,103540,True
+country of citizenship,shares border with,80598,True
+country,head of state,73530,True
+country of citizenship,head of government,67491,True
+country of origin,contains administrative territorial entity,66816,True
+country of origin,diplomatic relation,62688,True
+diplomatic relation,contains administrative territorial entity,52691,True
+country,instance of,44838,False
+diplomatic relation,member of,40537,True
+country of citizenship,head of state,35800,True
+place of death,twinned administrative body,33296,True
+country,ethnic group,29865,True
+country,electrical plug type,29164,True
+country,continent,28863,True
+located in the administrative territorial entity,twinned administrative body,28002,True
+country of citizenship,instance of,22052,False
+country of origin,member of,21757,True
+narrative location,contains administrative territorial entity,19767,True
+country,located in time zone,16318,True
+headquarters location,twinned administrative body,16220,True
+country,official language,15873,True
+narrative location,diplomatic relation,15521,True
+diplomatic relation,shares border with,15388,True
+country,currency,15016,True
+country,top-level Internet domain,14963,True
+country,basic form of government,14878,True
+country,anthem,14786,True
+country,described by source,14785,True
+country,emergency phone number,14769,True
+country,legislative body,14765,True
+country,history of topic,14754,True
+country,highest point,14729,True
+country,flag,14712,True
+country,coat of arms,14702,True
+country,geography of topic,14693,True
+country,topic's main Wikimedia portal,14693,True
+country,office held by head of government,14662,True
+country,capital,14647,True
+country,country,14643,True
+country,lowest point,14621,True
+country,office held by head of state,14578,True
+country,executive body,14536,True
+diplomatic relation,head of government,14353,True
+country,replaces,14243,True
+shares border with,diplomatic relation,13790,True
+country of citizenship,ethnic group,13632,True
+country of citizenship,electrical plug type,13317,True
+country of citizenship,continent,13071,True
+diplomatic relation,head of state,11761,True
+member of sports team,sport,11181,True
+country of origin,shares border with,11045,True
+located in the administrative territorial entity,instance of,10702,False
+country of origin,head of government,9921,True
+instance of,subclass of,9803,False
+located in the administrative territorial entity,country,9165,True
+place of birth,contains administrative territorial entity,9082,True
+country of citizenship,located in time zone,8471,True
+member of sports team,country,8254,True
+diplomatic relation,instance of,8208,False
+place of birth,diplomatic relation,8108,True
+facet of,contains administrative territorial entity,7776,True
+diplomatic relation,located in time zone,7564,True
+diplomatic relation,public holiday,7559,True
+country of citizenship,currency,7396,True
+shares border with,contains administrative territorial entity,7261,True
+located in the administrative territorial entity,located in the administrative territorial entity,7218,True
+located in the administrative territorial entity,located in time zone,7184,True
+country of citizenship,legislative body,7094,True
+country of citizenship,official language,7083,True
+country of citizenship,capital,7038,True
+country of citizenship,basic form of government,7022,True
+diplomatic relation,ethnic group,7017,True
+member of sports team,league,7016,True
+country of citizenship,top-level Internet domain,6959,True
+place of birth,country,6926,True
+participant,diplomatic relation,6904,True
+country of citizenship,described by source,6856,True
+place of birth,instance of,6840,False
+country of citizenship,anthem,6835,True
+country of citizenship,history of topic,6819,True
+country of citizenship,country,6813,True
+country of citizenship,flag,6807,True
+country of citizenship,topic's main Wikimedia portal,6807,True
+country of citizenship,emergency phone number,6784,True
+country of citizenship,coat of arms,6773,True
+country of citizenship,highest point,6767,True
+country of citizenship,geography of topic,6742,True
+country of citizenship,office held by head of state,6703,True
+country of citizenship,office held by head of government,6691,True
+country of citizenship,lowest point,6680,True
+country of citizenship,executive body,6416,True
+country of citizenship,replaces,6315,True
+diplomatic relation,official language,6102,True
+member of sports team,home venue,5839,True
+facet of,diplomatic relation,5664,True
+member of sports team,headquarters location,5632,True
+filming location,contains administrative territorial entity,5556,True
+narrative location,member of,5529,True
+country of origin,head of state,5043,True
+place of birth,located in the administrative territorial entity,5007,True
+filming location,diplomatic relation,4949,True
+narrative location,twinned administrative body,4743,True
+member of sports team,head coach,4276,True
+instance of,country,4212,False
+shares border with,member of,4207,True
+location,diplomatic relation,4180,True
+diplomatic relation,currency,4115,True
+place of birth,located in time zone,4011,True
+located in the administrative territorial entity,contains administrative territorial entity,3885,True
+place of death,contains administrative territorial entity,3435,True
+country of citizenship,significant event,3269,True
+country of origin,instance of,3267,False
+participant,contains administrative territorial entity,3180,True
+narrative location,shares border with,3036,True
+diplomatic relation,electrical plug type,3031,True
+place of birth,member of,3024,True
+place of death,diplomatic relation,2930,True
+diplomatic relation,top-level Internet domain,2830,True
+has part,diplomatic relation,2780,True
+participant,member of,2751,True
+diplomatic relation,basic form of government,2684,True
+diplomatic relation,part of,2680,False
+legal form,diplomatic relation,2604,True
+location,twinned administrative body,2602,True
+member of sports team,instance of,2565,False
+narrative location,head of government,2544,True
+operating area,twinned administrative body,2537,True
+place of birth,continent,2523,True
+diplomatic relation,anthem,2494,True
+filming location,twinned administrative body,2355,True
+diplomatic relation,legislative body,2340,True
+diplomatic relation,emergency phone number,2315,True
+shares border with,shares border with,2309,True
+located in the administrative territorial entity,diplomatic relation,2242,True
+country,public holiday,2216,True
+diplomatic relation,capital,2207,True
+diplomatic relation,history of topic,2205,True
+country of citizenship,named after,2204,True
+diplomatic relation,highest point,2194,True
+location,contains administrative territorial entity,2176,True
+diplomatic relation,flag,2174,True
+country of origin,located in time zone,2174,True
+diplomatic relation,country,2145,True
+diplomatic relation,geography of topic,2125,True
+diplomatic relation,described by source,2115,True
+diplomatic relation,topic's main Wikimedia portal,2070,True
+cast member,occupation,2048,True
+diplomatic relation,coat of arms,2020,True
+facet of,member of,2016,True
+diplomatic relation,office held by head of government,2003,True
+country of origin,ethnic group,1946,True
+diplomatic relation,continent,1903,True
+diplomatic relation,lowest point,1851,True
+"languages spoken, written or signed",linguistic typology,1834,True
+"languages spoken, written or signed",writing system,1832,True
+country of origin,continent,1795,True
+filming location,member of,1776,True
+country of origin,electrical plug type,1725,True
+diplomatic relation,located in or next to body of water,1721,True
+instance of,contains administrative territorial entity,1690,False
+diplomatic relation,executive body,1642,True
+place of birth,head of government,1631,True
+place of birth,shares border with,1628,True
+diplomatic relation,language used,1608,True
+place of death,country,1585,True
+shares border with,head of government,1495,True
+diplomatic relation,highest judicial authority,1460,True
+member of,founded by,1459,True
+basin country,diplomatic relation,1435,True
+cast member,country of citizenship,1432,True
+legal form,contains administrative territorial entity,1430,True
+headquarters location,contains administrative territorial entity,1421,True
+place of death,instance of,1406,False
+country of citizenship,public holiday,1393,True
+diplomatic relation,office held by head of state,1387,True
+narrative location,head of state,1382,True
+cast member,instance of,1372,False
+signatory,diplomatic relation,1371,True
+location,member of,1344,True
+place of birth,described by source,1324,True
+cast member,place of birth,1317,True
+country of citizenship,part of,1314,False
+located in the administrative territorial entity,capital,1305,True
+place of birth,history of topic,1291,True
+place of birth,topic's main Wikimedia portal,1281,True
+diplomatic relation,significant event,1268,True
+has part,contains administrative territorial entity,1248,True
+member of,director/manager,1218,True
+country of origin,top-level Internet domain,1206,True
+original language of film or TV show,linguistic typology,1180,True
+original language of film or TV show,writing system,1176,True
+shares border with,head of state,1171,True
+facet of,shares border with,1152,True
+member of,official language,1151,True
+place of birth,heritage designation,1140,True
+diplomatic relation,named after,1137,True
+country of origin,public holiday,1133,True
+country of origin,currency,1108,True
+participant,head of government,1098,True
+founded by,diplomatic relation,1078,True
+country of origin,official language,1075,True
+shares border with,instance of,1044,False
+country of origin,basic form of government,1042,True
+continent,located in time zone,1026,True
+headquarters location,diplomatic relation,1003,True
+legal form,member of,998,True
+narrative location,instance of,996,False
+country of origin,described by source,989,True
+member of political party,political ideology,986,True
+place of death,located in the administrative territorial entity,983,True
+country of origin,legislative body,979,True
+country of origin,emergency phone number,973,True
+country of origin,capital,970,True
+residence,twinned administrative body,967,True
+country of origin,highest point,965,True
+country of origin,country,963,True
+facet of,head of government,960,True
+place of death,member of,948,True
+shares border with,official language,945,True
+country of origin,anthem,944,True
+country of origin,history of topic,943,True
+ethnic group,country,943,True
+educated at,instance of,941,False
+country of origin,flag,938,True
+country of origin,topic's main Wikimedia portal,937,True
+country of origin,geography of topic,937,True
+country of origin,office held by head of state,927,True
+"languages spoken, written or signed",has grammatical case,920,True
+member of,instance of,916,False
+"languages spoken, written or signed",subclass of,916,True
+"languages spoken, written or signed",language regulatory body,915,True
+"languages spoken, written or signed",part of,914,False
+"languages spoken, written or signed",has grammatical mood,913,True
+filming location,shares border with,911,True
+place of death,continent,908,True
+country of origin,coat of arms,905,True
+country of origin,office held by head of government,901,True
+country of origin,executive body,897,True
+headquarters location,instance of,897,False
+country of origin,lowest point,892,True
+basin country,contains administrative territorial entity,888,True
+participant,shares border with,884,True
+contains administrative territorial entity,diplomatic relation,871,True
+headquarters location,country,869,True
+shares border with,located in time zone,867,True
+highway system,country,846,True
+instance of,has list,845,False
+member of sports team,country for sport,841,True
+country of origin,replaces,811,True
+country for sport,contains administrative territorial entity,810,True
+shares border with,ethnic group,806,True
+located in the administrative territorial entity,member of,798,True
+has part,member of,795,True
+member of sports team,participant of,792,True
+shares border with,public holiday,777,True
+filming location,head of government,776,True
+participant,head of state,770,True
+place of death,located in time zone,765,True
+member of sports team,chairperson,759,True
+member of,has part,757,True
+place of birth,head of state,748,True
+headquarters location,located in the administrative territorial entity,744,True
+located in the administrative territorial entity,described by source,720,True
+educated at,country,720,True
+operating area,contains administrative territorial entity,718,True
+diplomatic relation,has part,717,True
+shares border with,currency,715,True
+diplomatic relation,central bank,705,True
+located in the administrative territorial entity,shares border with,686,True
+designated as terrorist by,diplomatic relation,672,True
+country,part of,670,False
+place of death,head of government,667,True
+member of,currency,650,True
+signatory,member of,636,True
+narrative location,continent,636,True
+operating area,diplomatic relation,629,True
+director,occupation,620,True
+diplomatic relation,replaces,618,True
+member of,diplomatic relation,610,True
+located in the administrative territorial entity,continent,604,True
+original language of film or TV show,has grammatical case,602,True
+signatory,contains administrative territorial entity,594,True
+original language of film or TV show,language regulatory body,590,True
+country for sport,diplomatic relation,590,True
+original language of film or TV show,subclass of,590,True
+original language of film or TV show,has grammatical mood,586,True
+original language of film or TV show,part of,586,False
+location,shares border with,582,True
+diplomatic relation,participant of,572,True
+place served by transport hub,twinned administrative body,553,True
+country of citizenship,highest judicial authority,550,True

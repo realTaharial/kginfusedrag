@@ -1,0 +1,713 @@
+[
+  {
+    "question_id": "2-HOP_EDUCATED_AT_COUNTRY_001",
+    "question_text": "Semih Kaplanoğlu'ın mezun olduğu üniversitenin ülkesi neresidir?",
+    "reasoning_path": [
+      "Semih Kaplanoğlu",
+      "educated at",
+      "Dokuz Eylul University",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "academia",
+    "question_type": "educated_at_country"
+  },
+  {
+    "question_id": "2-HOP_EDUCATED_AT_COUNTRY_002",
+    "question_text": "engin altay'ın mezun olduğu üniversitenin ülkesi neresidir?",
+    "reasoning_path": [
+      "engin altay",
+      "educated at",
+      "Dokuz Eylul University",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "academia",
+    "question_type": "educated_at_country"
+  },
+  {
+    "question_id": "2-HOP_EDUCATED_AT_COUNTRY_003",
+    "question_text": "Engin Altan Düzyatan'ın mezun olduğu üniversitenin ülkesi neresidir?",
+    "reasoning_path": [
+      "Engin Altan Düzyatan",
+      "educated at",
+      "Dokuz Eylul University",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "academia",
+    "question_type": "educated_at_country"
+  },
+  {
+    "question_id": "2-HOP_UNIVERSITY_COUNTRY_001",
+    "question_text": "Semih Kaplanoğlu'ın okuduğu üniversitenin ülkesi neresidir?",
+    "reasoning_path": [
+      "Semih Kaplanoğlu",
+      "educated at",
+      "Dokuz Eylul University",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "academia",
+    "question_type": "university_country"
+  },
+  {
+    "question_id": "2-HOP_UNIVERSITY_COUNTRY_002",
+    "question_text": "engin altay'ın okuduğu üniversitenin ülkesi neresidir?",
+    "reasoning_path": [
+      "engin altay",
+      "educated at",
+      "Dokuz Eylul University",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "academia",
+    "question_type": "university_country"
+  },
+  {
+    "question_id": "2-HOP_UNIVERSITY_COUNTRY_003",
+    "question_text": "Engin Altan Düzyatan'ın okuduğu üniversitenin ülkesi neresidir?",
+    "reasoning_path": [
+      "Engin Altan Düzyatan",
+      "educated at",
+      "Dokuz Eylul University",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "academia",
+    "question_type": "university_country"
+  },
+  {
+    "question_id": "2-HOP_DIRECTOR_AWARD_001",
+    "question_text": "the wall (1983 film) filminin yönetmeninin kazandığı ödül nedir?",
+    "reasoning_path": [
+      "the wall (1983 film)",
+      "director",
+      "Guney, Yilmaz",
+      "award received",
+      "palme d'or 1939–1959"
+    ],
+    "gold_answer": "palme d'or 1939–1959",
+    "difficulty": "2-hop",
+    "domain": "cinema",
+    "question_type": "director_award"
+  },
+  {
+    "question_id": "2-HOP_DIRECTOR_AWARD_002",
+    "question_text": "frenzy (2015 film) filminin yönetmeninin kazandığı ödül nedir?",
+    "reasoning_path": [
+      "frenzy (2015 film)",
+      "director",
+      "Emin Alper",
+      "award received",
+      "Berliner Kunstpreis"
+    ],
+    "gold_answer": "Berliner Kunstpreis",
+    "difficulty": "2-hop",
+    "domain": "cinema",
+    "question_type": "director_award"
+  },
+  {
+    "question_id": "2-HOP_DIRECTOR_AWARD_003",
+    "question_text": "Beyond the Hill filminin yönetmeninin kazandığı ödül nedir?",
+    "reasoning_path": [
+      "Beyond the Hill",
+      "director",
+      "Emin Alper",
+      "award received",
+      "Berliner Kunstpreis"
+    ],
+    "gold_answer": "Berliner Kunstpreis",
+    "difficulty": "2-hop",
+    "domain": "cinema",
+    "question_type": "director_award"
+  },
+  {
+    "question_id": "2-HOP_DIRECTOR_BIRTH_001",
+    "question_text": "the wall (1983 film) filminin yönetmeninin doğum yeri neresidir?",
+    "reasoning_path": [
+      "the wall (1983 film)",
+      "director",
+      "Guney, Yilmaz",
+      "place of birth",
+      "siverek"
+    ],
+    "gold_answer": "siverek",
+    "difficulty": "2-hop",
+    "domain": "cinema",
+    "question_type": "director_birth"
+  },
+  {
+    "question_id": "2-HOP_DIRECTOR_BIRTH_002",
+    "question_text": "The Belly Dancer filminin yönetmeninin doğum yeri neresidir?",
+    "reasoning_path": [
+      "The Belly Dancer",
+      "director",
+      "Savas Ay",
+      "place of birth",
+      "ayntab"
+    ],
+    "gold_answer": "ayntab",
+    "difficulty": "2-hop",
+    "domain": "cinema",
+    "question_type": "director_birth"
+  },
+  {
+    "question_id": "2-HOP_DIRECTOR_BIRTH_003",
+    "question_text": "a season in hakkari filminin yönetmeninin doğum yeri neresidir?",
+    "reasoning_path": [
+      "a season in hakkari",
+      "director",
+      "erden kiral",
+      "place of birth",
+      "gölcük, kocaeli"
+    ],
+    "gold_answer": "gölcük, kocaeli",
+    "difficulty": "2-hop",
+    "domain": "cinema",
+    "question_type": "director_birth"
+  },
+  {
+    "question_id": "2-HOP_DIRECTOR_BIRTH_004",
+    "question_text": "the canal (1979 film) filminin yönetmeninin doğum yeri neresidir?",
+    "reasoning_path": [
+      "the canal (1979 film)",
+      "director",
+      "erden kiral",
+      "place of birth",
+      "gölcük, kocaeli"
+    ],
+    "gold_answer": "gölcük, kocaeli",
+    "difficulty": "2-hop",
+    "domain": "cinema",
+    "question_type": "director_birth"
+  },
+  {
+    "question_id": "2-HOP_COMPANY_HQ_COUNTRY_001",
+    "question_text": "erzurumspor şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "erzurumspor",
+      "headquarters location",
+      "Theodosiopolis (Armenia)",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "company",
+    "question_type": "company_hq_country"
+  },
+  {
+    "question_id": "2-HOP_COMPANY_HQ_COUNTRY_002",
+    "question_text": "erzurum university şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "erzurum university",
+      "headquarters location",
+      "Theodosiopolis (Armenia)",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "company",
+    "question_type": "company_hq_country"
+  },
+  {
+    "question_id": "2-HOP_COMPANY_HQ_COUNTRY_003",
+    "question_text": "sanasarian college of erzeroum şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "sanasarian college of erzeroum",
+      "headquarters location",
+      "Theodosiopolis (Armenia)",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "company",
+    "question_type": "company_hq_country"
+  },
+  {
+    "question_id": "2-HOP_COMPANY_HQ_COUNTRY_004",
+    "question_text": "University of Muğla şirketinin merkezinin bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "University of Muğla",
+      "headquarters location",
+      "Muğla province",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "company",
+    "question_type": "company_hq_country"
+  },
+  {
+    "question_id": "2-HOP_RECORD_LABEL_COUNTRY_001",
+    "question_text": "neşet ertaş'ın bağlı olduğu plak şirketinin ülkesi neresidir?",
+    "reasoning_path": [
+      "neşet ertaş",
+      "record label",
+      "kalan muzik",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "music",
+    "question_type": "record_label_country"
+  },
+  {
+    "question_id": "2-HOP_RECORD_LABEL_COUNTRY_002",
+    "question_text": "Zeki Muren'ın bağlı olduğu plak şirketinin ülkesi neresidir?",
+    "reasoning_path": [
+      "Zeki Muren",
+      "record label",
+      "kalan muzik",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "music",
+    "question_type": "record_label_country"
+  },
+  {
+    "question_id": "2-HOP_RECORD_LABEL_COUNTRY_003",
+    "question_text": "hassan saltik'ın bağlı olduğu plak şirketinin ülkesi neresidir?",
+    "reasoning_path": [
+      "hassan saltik",
+      "record label",
+      "kalan muzik",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "music",
+    "question_type": "record_label_country"
+  },
+  {
+    "question_id": "2-HOP_RECORD_LABEL_COUNTRY_004",
+    "question_text": "erkan uğur'ın bağlı olduğu plak şirketinin ülkesi neresidir?",
+    "reasoning_path": [
+      "erkan uğur",
+      "record label",
+      "kalan muzik",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "music",
+    "question_type": "record_label_country"
+  },
+  {
+    "question_id": "2-HOP_COACH_BIRTH_001",
+    "question_text": "Giresunspor'ın teknik direktörünün doğum yeri neresidir?",
+    "reasoning_path": [
+      "Giresunspor",
+      "head coach",
+      "erhan altin",
+      "place of birth",
+      "samsun, turkey"
+    ],
+    "gold_answer": "samsun, turkey",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "coach_birth"
+  },
+  {
+    "question_id": "2-HOP_COACH_BIRTH_002",
+    "question_text": "Eskisehirspor'ın teknik direktörünün doğum yeri neresidir?",
+    "reasoning_path": [
+      "Eskisehirspor",
+      "head coach",
+      "Kazım Ersun Yanal",
+      "place of birth",
+      "ismir, turkey"
+    ],
+    "gold_answer": "ismir, turkey",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "coach_birth"
+  },
+  {
+    "question_id": "2-HOP_TEAM_COUNTRY_001",
+    "question_text": "Semavi Özgür'ın oynadığı takımın ülkesi neresidir?",
+    "reasoning_path": [
+      "Semavi Özgür",
+      "member of sports team",
+      "diyarbakir bueyueksehir belediye diski spor",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "team_country"
+  },
+  {
+    "question_id": "2-HOP_TEAM_HEADQUARTERS_001",
+    "question_text": "veli kizilkaya'ın oynadığı takımın merkezi nerededir?",
+    "reasoning_path": [
+      "veli kizilkaya",
+      "member of sports team",
+      "Kütahyaspor",
+      "headquarters location",
+      "Cotiæum"
+    ],
+    "gold_answer": "Cotiæum",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "team_headquarters"
+  },
+  {
+    "question_id": "2-HOP_TEAM_HEADQUARTERS_002",
+    "question_text": "Adnan yıldız'ın oynadığı takımın merkezi nerededir?",
+    "reasoning_path": [
+      "Adnan yıldız",
+      "member of sports team",
+      "Kütahyaspor",
+      "headquarters location",
+      "Cotiæum"
+    ],
+    "gold_answer": "Cotiæum",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "team_headquarters"
+  },
+  {
+    "question_id": "2-HOP_TEAM_LEAGUE_001",
+    "question_text": "Semavi Özgür'ın oynadığı takım hangi ligdedir?",
+    "reasoning_path": [
+      "Semavi Özgür",
+      "member of sports team",
+      "diyarbakir bueyueksehir belediye diski spor",
+      "league",
+      "TFF Third League"
+    ],
+    "gold_answer": "TFF Third League",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "team_league"
+  },
+  {
+    "question_id": "2-HOP_TEAM_LEAGUE_002",
+    "question_text": "kerem can akyuz'ın oynadığı takım hangi ligdedir?",
+    "reasoning_path": [
+      "kerem can akyuz",
+      "member of sports team",
+      "diyarbakir bueyueksehir belediye diski spor",
+      "league",
+      "TFF Third League"
+    ],
+    "gold_answer": "TFF Third League",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "team_league"
+  },
+  {
+    "question_id": "2-HOP_TEAM_VENUE_001",
+    "question_text": "tarik altuntas'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "tarik altuntas",
+      "member of sports team",
+      "balçova belediyespor",
+      "home venue",
+      "Buca Arena"
+    ],
+    "gold_answer": "Buca Arena",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "team_venue"
+  },
+  {
+    "question_id": "2-HOP_TEAM_VENUE_002",
+    "question_text": "kadir ari'ın oynadığı takımın stadyumu nedir?",
+    "reasoning_path": [
+      "kadir ari",
+      "member of sports team",
+      "balçova belediyespor",
+      "home venue",
+      "Buca Arena"
+    ],
+    "gold_answer": "Buca Arena",
+    "difficulty": "2-hop",
+    "domain": "sports",
+    "question_type": "team_venue"
+  },
+  {
+    "question_id": "3-HOP_DIRECTOR_BIRTH_COUNTRY_001",
+    "question_text": "Beauty from Peran filminin yönetmeninin doğduğu yerin ülkesi neresidir?",
+    "reasoning_path": [
+      "Beauty from Peran",
+      "director",
+      "vedat örfi bengü",
+      "place of birth",
+      "istanbul (turkey)",
+      "country",
+      "byzantine (eastern roman) empire"
+    ],
+    "gold_answer": "byzantine (eastern roman) empire",
+    "difficulty": "3-hop",
+    "domain": "cinema",
+    "question_type": "director_birth_country"
+  },
+  {
+    "question_id": "3-HOP_DIRECTOR_BIRTH_COUNTRY_002",
+    "question_text": "Jîn filminin yönetmeninin doğduğu yerin ülkesi neresidir?",
+    "reasoning_path": [
+      "Jîn",
+      "director",
+      "reha erdem",
+      "place of birth",
+      "istanbul (turkey)",
+      "country",
+      "byzantine (eastern roman) empire"
+    ],
+    "gold_answer": "byzantine (eastern roman) empire",
+    "difficulty": "3-hop",
+    "domain": "cinema",
+    "question_type": "director_birth_country"
+  },
+  {
+    "question_id": "3-HOP_DIRECTOR_BIRTH_COUNTRY_003",
+    "question_text": "big big world (film) filminin yönetmeninin doğduğu yerin ülkesi neresidir?",
+    "reasoning_path": [
+      "big big world (film)",
+      "director",
+      "reha erdem",
+      "place of birth",
+      "istanbul (turkey)",
+      "country",
+      "byzantine (eastern roman) empire"
+    ],
+    "gold_answer": "byzantine (eastern roman) empire",
+    "difficulty": "3-hop",
+    "domain": "cinema",
+    "question_type": "director_birth_country"
+  },
+  {
+    "question_id": "3-HOP_DIRECTOR_BIRTH_COUNTRY_004",
+    "question_text": "cosmos (2010 film) filminin yönetmeninin doğduğu yerin ülkesi neresidir?",
+    "reasoning_path": [
+      "cosmos (2010 film)",
+      "director",
+      "reha erdem",
+      "place of birth",
+      "istanbul (turkey)",
+      "country",
+      "byzantine (eastern roman) empire"
+    ],
+    "gold_answer": "byzantine (eastern roman) empire",
+    "difficulty": "3-hop",
+    "domain": "cinema",
+    "question_type": "director_birth_country"
+  },
+  {
+    "question_id": "3-HOP_DIRECTOR_BIRTH_REGION_001",
+    "question_text": "mustang (film) filminin yönetmeninin doğduğu yerin bağlı olduğu bölge neresidir?",
+    "reasoning_path": [
+      "mustang (film)",
+      "director",
+      "deniz gamze erguven",
+      "place of birth",
+      "Angora, Turkey",
+      "located in the administrative territorial entity",
+      "Galatia Salutaris"
+    ],
+    "gold_answer": "Galatia Salutaris",
+    "difficulty": "3-hop",
+    "domain": "cinema",
+    "question_type": "director_birth_region"
+  },
+  {
+    "question_id": "3-HOP_DIRECTOR_BIRTH_REGION_002",
+    "question_text": "Turkish Star Wars filminin yönetmeninin doğduğu yerin bağlı olduğu bölge neresidir?",
+    "reasoning_path": [
+      "Turkish Star Wars",
+      "director",
+      "Çetin İnanç",
+      "place of birth",
+      "Angora, Turkey",
+      "located in the administrative territorial entity",
+      "Galatia Salutaris"
+    ],
+    "gold_answer": "Galatia Salutaris",
+    "difficulty": "3-hop",
+    "domain": "cinema",
+    "question_type": "director_birth_region"
+  },
+  {
+    "question_id": "3-HOP_DIRECTOR_BIRTH_REGION_003",
+    "question_text": "Korkusuz filminin yönetmeninin doğduğu yerin bağlı olduğu bölge neresidir?",
+    "reasoning_path": [
+      "Korkusuz",
+      "director",
+      "Çetin İnanç",
+      "place of birth",
+      "Angora, Turkey",
+      "located in the administrative territorial entity",
+      "Galatia Salutaris"
+    ],
+    "gold_answer": "Galatia Salutaris",
+    "difficulty": "3-hop",
+    "domain": "cinema",
+    "question_type": "director_birth_region"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_CITY_001",
+    "question_text": "ekrem ekşioğlu'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "ekrem ekşioğlu",
+      "member of sports team",
+      "erzurumspor",
+      "home venue",
+      "Cemal Guersel Stadyumu",
+      "located in the administrative territorial entity",
+      "Theodosiopolis (Armenia)"
+    ],
+    "gold_answer": "Theodosiopolis (Armenia)",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_city"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_CITY_002",
+    "question_text": "hakkı tolunay kafkas'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "hakkı tolunay kafkas",
+      "member of sports team",
+      "erzurumspor",
+      "home venue",
+      "Cemal Guersel Stadyumu",
+      "located in the administrative territorial entity",
+      "Theodosiopolis (Armenia)"
+    ],
+    "gold_answer": "Theodosiopolis (Armenia)",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_city"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_CITY_003",
+    "question_text": "hasan vural'ın oynadığı takımın stadyumunun bulunduğu şehir neresidir?",
+    "reasoning_path": [
+      "hasan vural",
+      "member of sports team",
+      "erzurumspor",
+      "home venue",
+      "Cemal Guersel Stadyumu",
+      "located in the administrative territorial entity",
+      "Theodosiopolis (Armenia)"
+    ],
+    "gold_answer": "Theodosiopolis (Armenia)",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_city"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_CITY_COUNTRY_001",
+    "question_text": "tarik altuntas'ın oynadığı takımın stadyumunun bulunduğu şehrin ülkesi neresidir?",
+    "reasoning_path": [
+      "tarik altuntas",
+      "member of sports team",
+      "balçova belediyespor",
+      "home venue",
+      "Buca Arena",
+      "located in the administrative territorial entity",
+      "buca",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_city_country"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_CITY_COUNTRY_002",
+    "question_text": "kadir ari'ın oynadığı takımın stadyumunun bulunduğu şehrin ülkesi neresidir?",
+    "reasoning_path": [
+      "kadir ari",
+      "member of sports team",
+      "balçova belediyespor",
+      "home venue",
+      "Buca Arena",
+      "located in the administrative territorial entity",
+      "buca",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_city_country"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_CITY_COUNTRY_003",
+    "question_text": "veli kizilkaya'ın oynadığı takımın stadyumunun bulunduğu şehrin ülkesi neresidir?",
+    "reasoning_path": [
+      "veli kizilkaya",
+      "member of sports team",
+      "Kütahyaspor",
+      "home venue",
+      "Dumlupınar Stadium",
+      "located in the administrative territorial entity",
+      "Cotiæum",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_city_country"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_COUNTRY_001",
+    "question_text": "Dilaver Satılmıs'ın oynadığı takımın stadyumunun bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Dilaver Satılmıs",
+      "member of sports team",
+      "Diyarbakirspor",
+      "home venue",
+      "diyarbakir ataturk stadyumu",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_country"
+  },
+  {
+    "question_id": "3-HOP_TEAM_VENUE_COUNTRY_002",
+    "question_text": "Murat Kayalı'ın oynadığı takımın stadyumunun bulunduğu ülke neresidir?",
+    "reasoning_path": [
+      "Murat Kayalı",
+      "member of sports team",
+      "Diyarbakirspor",
+      "home venue",
+      "diyarbakir ataturk stadyumu",
+      "country",
+      "turkiye"
+    ],
+    "gold_answer": "turkiye",
+    "difficulty": "3-hop",
+    "domain": "sports",
+    "question_type": "team_venue_country"
+  }
+]
