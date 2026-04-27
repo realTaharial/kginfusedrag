@@ -1,202 +1,132 @@
-# kginfusedrag## 8. Deliverables
+# KG-Infused RAG — Türkiye Odaklı Soru-Cevap Sistemi
 
-This project follows a phase-based development structure for building a KG-Infused Retrieval-Augmented Generation system on a Türkiye-focused subset of Wikidata5M. The deliverables below summarize the outputs produced in each phase.
+Bu proje, Türkiye odaklı bir Wikidata5M alt kümesi üzerinde çalışan bir Knowledge Graph (KG) destekli Retrieval-Augmented Generation (RAG) sistemini hedefler. Amaç, çok adımlı bağlantılar ve ilişki yolları kullanarak Türkçe soru-cevap performansını geliştirmek ve doğrulanmış bir QA veri seti oluşturmaktır.
 
 ---
 
-## 8.1 Türkiye Entity Analysis Report  
-**Related Phases:** Phase 1–2
+## 🚀 Proje Özeti
 
-### Purpose
+- **Odak:** Türkiye ilişkili varlıklar ve özellikle Türk futbolu üzerine bilgi grafiği sorguları
+- **Veri kaynağı:** Wikidata5M'in Türkiye içeriğine indirgenmiş subset'i
+- **Çıktılar:** Çok adımlı (multi-hop) QA soruları, karşılaştırma soruları ve KG destekli yanıt üretimi
+- **Teknoloji yığını:** FastAPI, Neo4j, OLLAMA/OpenAI, React + Vite
 
-The first part of the project focuses on analyzing Türkiye-related entities inside Wikidata5M and selecting a meaningful domain for multi-hop question answering.
+## 📁 Repository Yapısı
 
-### Türkiye Data Analysis in Wikidata5M
+- `backend/` — FastAPI tabanlı API ve KG tabanlı cevap üretim mantığı
+- `frontend/` — React + Vite kullanıcı arayüzü
+- `data/` — ham veri, işlenmiş veri ve üretim sonuçları
+- `scripts/` — Türkiye odaklı subset oluşturma, grafik hazırlama, soru üretilmesi ve değerlendirme işlemleri
+- `notebooks/` — analiz, keşif ve deneysel çalışmalar
 
-In this phase, Türkiye was used as the root entity for exploration. The Türkiye entity was identified as:
+## ⭐ Ana Özellikler
 
-```json
-{
-  "entity_id": "Q43",
-  "entity_name": "Türkiye"
-}
+- Türkiye odaklı bilgi grafiği analizi
+- Futbol, şehir, şirket, üniversite ve film gibi alanlarda çok adımlı ilişkisel QA
+- Doğrulanmış soru bankası üretimi ve değerlendirmesi
+- Görev bazlı graph-grounded yanıt üretimi
+- OLLAMA/OpenAI kullanarak Türkçe ifade dönüşümü
 
-The dataset was explored to find entities and relations connected to Türkiye. The initial analysis showed that Wikidata5M contains many Türkiye-related entities such as:
+## 🛠️ Kurulum
 
-football clubs
-football players
-stadiums
-cities
-companies
-universities
-movies
-directors
-record labels
-countries and administrative regions
+### 1. Python ortamı
 
-During the exploration phase, approximately 30,000 Türkiye-related entity matches were found. Then, a football-focused candidate extraction was performed, and around 4,010 football-related candidates were detected. After cleaning and filtering, the final Turkish football seed set contained approximately 2,585 entities.
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
 
-Selected Domain and Justification
+### 2. Backend bağımlılıkları
 
-The selected domain for the main QA system is:
+Aşağıdaki paketlere ihtiyaç vardır:
 
-Türkiye-focused football and related knowledge graph entities
+- `fastapi`
+- `uvicorn`
+- `python-dotenv`
+- `neo4j`
+- `openai`
+- `requests`
 
-This domain was selected because:
+Kurulum için örnek:
 
-Türkiye has many football-related entities in Wikidata5M.
-Football clubs, players, stadiums, leagues, countries, and cities naturally form multi-hop reasoning paths.
-The domain supports both simple and complex QA patterns.
-The graph contains enough entity-relation connections for 2-hop, 3-hop, and comparison-based questions.
-Turkish football entities are familiar and interpretable, making manual validation easier.
-Entity-Relation Map
+```powershell
+pip install fastapi uvicorn python-dotenv neo4j openai requests
+```
 
-The main entity types used in the project are:
+### 3. Frontend kurulumu
 
-Entity Type	Examples
-Country	Türkiye, Germany, Brazil
-Football Club	Beşiktaş, Galatasaray, Fenerbahçe
-Player	Cenk Tosun, Taffarel, Baki Mercimek
-Stadium	Vodafone Park, Ali Sami Yen Stadium
-League	Süper Lig
-City	Istanbul, Gaziantep, Frankfurt
-University	Türkiye-related universities
-Company	Türkiye-related companies
-Director	Movie directors connected to Türkiye-related data
+```powershell
+cd frontend
+npm install
+```
 
-The most useful relation types include:
+### 4. Çalıştırma
 
-Relation	Meaning
-country	connects a team, company, or institution to a country
-league	connects a team to its league
-home venue	connects a team to its stadium
-headquarters location	connects an organization to its headquarters
-place of birth	connects a person to their birth place
-country of citizenship	connects a person to citizenship country
-located in the administrative territorial entity	connects a place to its region
-director	connects a movie to its director
-educated at	connects a person to an educational institution
-Example Entity-Relation Paths
+Backend:
 
-Example 1:
+```powershell
+cd ..
+uvicorn backend.app:app --reload
+```
 
-Galatasaray S.K. 
-→ home venue 
-→ Ali Sami Yen Stadium
+Frontend:
 
-Example 2:
+```powershell
+cd frontend
+npm run dev
+```
 
-Cenk Tosun 
-→ place of birth 
-→ Wetzlar
+## ⚙️ Çalışma Koşulları
 
-Example 3:
+### `backend/app.py` tarafından kullanılan varsayılan ayarlar
 
-Movie 
-→ director 
-→ Director Entity 
-→ place of birth 
-→ Birth Place 
-→ located in administrative territorial entity 
-→ Region
+- Neo4j URI: `neo4j://127.0.0.1:7687`
+- Neo4j kullanıcı adı: `neo4j`
+- Neo4j parola: `12345678`
+- OLLAMA URL: `http://localhost:11434/api/generate`
+- OLLAMA model: `qwen2.5:3b`
 
-These paths are used to generate and answer multi-hop questions.
+### Ortam değişkenleri
 
-8.2 Türkiye Multi-Hop QA Dataset
+Aşağıdaki değişken `.env` dosyasına eklenebilir:
 
-Related Phase: Phase 3
+```env
+OPENAI_API_KEY=your_openai_api_key
+```
 
-Purpose
+## 📌 Önemli Veri Dosyaları
 
-The goal of this phase is to generate a verified multi-hop question-answering dataset from the Türkiye-focused knowledge graph.
+- `data/processed/verified_question_bank.json` — doğrulanmış soru bankası
+- `data/processed/relation_frequency_turkiye_subset.csv` — izin verilen ilişki seti
+- `backend/app.py` — grafik tabanlı sorgu ve LLM destekli cevap üretimi
 
-The project requirement was to create at least 50 verified questions. The implemented question generation pipeline produced significantly more verified questions across multiple reasoning patterns.
+## 🧩 Önemli Scriptler
 
-Verified Question Patterns
+- `scripts/load_basic_maps.py` — temel varlık ve ilişki haritalarını yükleme
+- `scripts/find_turkey` — Türkiye ile ilgili varlıkları keşfetme
+- `scripts/build_turkiye_general_subset.py` — Türkiye odaklı alt küme oluşturma
+- `scripts/generate_verified_question_bank.py` — doğrulanmış soru bankası üretme
+- `scripts/evaluate_current_system.py` — sistem değerlendirmesi
 
-The generated question bank contains questions from different domains and difficulty levels.
+## 💡 Kullanım Senaryosu
 
-Pattern Name	Description	Verified Count
-team_country	Find the country of a football team	200
-team_league	Find the league of a football team	200
-team_venue	Find the home venue/stadium of a football team	200
-team_headquarters	Find the headquarters location of a team	200
-company_hq_country	Find the country of a company headquarters	200
-educated_at_country	Find the country of an educational institution	200
-university_country	Find the country of a university	200
-director_birth	Find the birth place of a director	200
-director_birth_region	Find the administrative region of a director's birth place	200
-coach_birth	Find the birth place of a coach	48
-director_award	Find an award related to a director	34
-record_label_country	Find the country of a record label	15
-compare_team_country_same	Compare whether two teams are from the same country	200
-compare_team_league_same	Compare whether two teams are in the same league	200
-compare_company_hq_country_same	Compare whether two companies have headquarters in the same country	200
-compare_educated_country_same	Compare whether two people studied in institutions from the same country	200
-QA Dataset Format
+1. Türkiye odaklı Wikidata verileri üzerinden subset çıkarın.
+2. Bu subset üzerinden çok adımlı soru üretin.
+3. Neo4j üzerine veri yükleyin.
+4. FastAPI backend ile soruları sorgulayın.
+5. Frontend üzerinden sonuçları görüntüleyin.
 
-Each question is stored with its question text, answer, reasoning path, domain, difficulty, and pattern information.
+## 📘 Notlar
 
-Example JSON format:
+- Proje, veri ve mantık açısından Türkiye futbolu ve geniş Türkiye ilişkileri üzerine inşa edilmiştir.
+- Backend, grafik sonuçlarını Türkçe olarak daha doğal bir cümleye dönüştürmek için OLLAMA kullanır.
+- React frontend, kullanıcı deneyimi için Vite ile hazırlandı.
 
-{
-  "question_id": "team_venue_001",
-  "domain": "football",
-  "difficulty": "easy",
-  "pattern": "team_venue",
-  "question_text": "What is the home stadium of Galatasaray S.K.?",
-  "gold_answer": "Ali Sami Yen Stadium",
-  "reasoning_path": [
-    {
-      "subject": "Galatasaray S.K.",
-      "relation": "home venue",
-      "object": "Ali Sami Yen Stadium"
-    }
-  ]
-}
+---
 
-Example multi-hop JSON format:
+## 🎯 Hedef
 
-{
-  "question_id": "director_birth_region_001",
-  "domain": "film",
-  "difficulty": "hard",
-  "pattern": "director_birth_region",
-  "question_text": "The director of the movie is born in which administrative region?",
-  "gold_answer": "Example Region",
-  "reasoning_path": [
-    {
-      "subject": "Movie Entity",
-      "relation": "director",
-      "object": "Director Entity"
-    },
-    {
-      "subject": "Director Entity",
-      "relation": "place of birth",
-      "object": "Birth Place"
-    },
-    {
-      "subject": "Birth Place",
-      "relation": "located in the administrative territorial entity",
-      "object": "Administrative Region"
-    }
-  ]
-}
-Domain and Difficulty Distribution
-
-The dataset contains different question difficulties:
-
-Difficulty	Description
-Easy	Single-hop questions
-Medium	Two-hop questions
-Hard	Three-hop or four-hop reasoning questions
-Comparison	Questions that compare two entities using the same relation type
-
-The question bank includes both direct factual questions and comparison-based questions.
-
-8.3 Code Repository
-
-Related Phase: Phase 4
+Bu repo, Türkiye odağındaki bilgi grafiği sorularını destekleyen bir RAG sistemi sunar. Hem veri hazırlama hem de soru-cevap aşamaları bu hedefe göre düzenlenmiştir.
 
 Purpose
 
