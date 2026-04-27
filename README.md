@@ -1,44 +1,89 @@
-# KG-Infused RAG — Türkiye Odaklı Soru-Cevap Sistemi
+# KG-Infused RAG — Turkey-Focused Question Answering System
 
-Bu proje, Türkiye odaklı bir Wikidata5M alt kümesi üzerinde çalışan bir Knowledge Graph (KG) destekli Retrieval-Augmented Generation (RAG) sistemini hedefler. Amaç, çok adımlı bağlantılar ve ilişki yolları kullanarak Türkçe soru-cevap performansını geliştirmek ve doğrulanmış bir QA veri seti oluşturmaktır.
+This repository implements a Knowledge Graph (KG) supported Retrieval-Augmented Generation (RAG) system for a Turkey-focused subset of Wikidata5M. The main goal is to improve question-answering performance using multi-hop entity and relation paths and to generate a verified QA dataset.
 
 ---
 
-## 🚀 Proje Özeti
+## Table of Contents
 
-- **Odak:** Türkiye ilişkili varlıklar ve özellikle Türk futbolu üzerine bilgi grafiği sorguları
-- **Veri kaynağı:** Wikidata5M'in Türkiye içeriğine indirgenmiş subset'i
-- **Çıktılar:** Çok adımlı (multi-hop) QA soruları, karşılaştırma soruları ve KG destekli yanıt üretimi
-- **Teknoloji yığını:** FastAPI, Neo4j, OLLAMA/OpenAI, React + Vite
+- [Project Overview](#project-overview)
+- [Repository Structure](#repository-structure)
+- [Frontend Overview](#frontend-overview)
+- [Case Studies](#case-studies)
+- [Setup & Run](#setup--run)
+- [Backend Configuration](#backend-configuration)
+- [Key Data Files](#key-data-files)
+- [Important Scripts](#important-scripts)
+- [Use Case](#use-case)
+- [Notes](#notes)
 
-## 📁 Repository Yapısı
+## 🚀 Project Overview
 
-- `backend/` — FastAPI tabanlı API ve KG tabanlı cevap üretim mantığı
-- `frontend/` — React + Vite kullanıcı arayüzü
-- `data/` — ham veri, işlenmiş veri ve üretim sonuçları
-- `scripts/` — Türkiye odaklı subset oluşturma, grafik hazırlama, soru üretilmesi ve değerlendirme işlemleri
-- `notebooks/` — analiz, keşif ve deneysel çalışmalar
+- **Focus:** Turkey-related entities, especially Turkish football, film, and organization data
+- **Data source:** Turkey-focused subset of Wikidata5M
+- **Outputs:** multi-hop QA questions, comparison questions, verified question bank
+- **Technology:** FastAPI, Neo4j, OLLAMA/OpenAI, React + Vite
 
-## ⭐ Ana Özellikler
+## 📁 Repository Structure
 
-- Türkiye odaklı bilgi grafiği analizi
-- Futbol, şehir, şirket, üniversite ve film gibi alanlarda çok adımlı ilişkisel QA
-- Doğrulanmış soru bankası üretimi ve değerlendirmesi
-- Görev bazlı graph-grounded yanıt üretimi
-- OLLAMA/OpenAI kullanarak Türkçe ifade dönüşümü
+- `backend/` — FastAPI API, KG retrieval, and answer generation logic
+- `frontend/` — React-based user interface
+- `data/` — raw data, processed results, and output files
+- `scripts/` — data preparation, subset creation, and question generation workflows
+- `notebooks/` — exploratory analysis and experimental reporting
 
-## 🛠️ Kurulum
+## 🧠 Frontend Overview
 
-### 1. Python ortamı
+The frontend provides the following main tabs:
+
+- **Knowledge Graph:** graph-based query interface, demo questions, and answer details
+- **Cypher Queries:** Neo4j query templates and query results
+- **Case Studies:** analysis of successful and failed examples
+- **Project Status:** project progress and metrics
+
+These tabs are defined in `frontend/src/App.tsx`. The `CaseStudiesPage.tsx` page shows detailed case study examples.
+
+### Key Frontend Files
+
+- `frontend/src/App.tsx` — main app shell and tab management
+- `frontend/src/pages/KnowledgeGraphPage.tsx` — knowledge graph query page
+- `frontend/src/pages/CypherQueriesPage.tsx` — Cypher query page
+- `frontend/src/pages/CaseStudiesPage.tsx` — case studies page
+- `frontend/src/pages/ProjectStatusPage.tsx` — project status page
+
+## 📚 Case Studies
+
+The project includes real case studies in the frontend. The `frontend/src/pages/CaseStudiesPage.tsx` page demonstrates examples such as:
+
+- successful 2-hop and 3-hop questions
+- comparison questions
+- KG data deficiency failures
+- entity linking failures
+- Turkish-English entity matching issues
+- retrieval guidance failures
+- LLM surface realization issues
+
+Each case study includes:
+
+- question text
+- expected answer
+- system answer
+- pipeline analysis
+- error analysis
+- recommended improvements
+
+## 🛠️ Setup & Run
+
+### 1. Python environment
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
-### 2. Backend bağımlılıkları
+### 2. Backend dependencies
 
-Aşağıdaki paketlere ihtiyaç vardır:
+The backend generally requires these packages:
 
 - `fastapi`
 - `uvicorn`
@@ -47,20 +92,22 @@ Aşağıdaki paketlere ihtiyaç vardır:
 - `openai`
 - `requests`
 
-Kurulum için örnek:
+Install example:
 
 ```powershell
 pip install fastapi uvicorn python-dotenv neo4j openai requests
 ```
 
-### 3. Frontend kurulumu
+> Note: If there is no `requirements.txt` file in the repository root, install dependencies manually.
+
+### 3. Frontend setup
 
 ```powershell
 cd frontend
 npm install
 ```
 
-### 4. Çalıştırma
+### 4. Run the application
 
 Backend:
 
@@ -76,190 +123,59 @@ cd frontend
 npm run dev
 ```
 
-## ⚙️ Çalışma Koşulları
+## 🔧 Backend Configuration
 
-### `backend/app.py` tarafından kullanılan varsayılan ayarlar
+Default settings in `backend/app.py`:
 
 - Neo4j URI: `neo4j://127.0.0.1:7687`
-- Neo4j kullanıcı adı: `neo4j`
-- Neo4j parola: `12345678`
+- Neo4j username: `neo4j`
+- Neo4j password: `12345678`
 - OLLAMA URL: `http://localhost:11434/api/generate`
 - OLLAMA model: `qwen2.5:3b`
 
-### Ortam değişkenleri
+### Environment variables
 
-Aşağıdaki değişken `.env` dosyasına eklenebilir:
+Add the following to a `.env` file if needed:
 
 ```env
 OPENAI_API_KEY=your_openai_api_key
 ```
 
-## 📌 Önemli Veri Dosyaları
+## 📌 Key Data Files
 
-- `data/processed/verified_question_bank.json` — doğrulanmış soru bankası
-- `data/processed/relation_frequency_turkiye_subset.csv` — izin verilen ilişki seti
-- `backend/app.py` — grafik tabanlı sorgu ve LLM destekli cevap üretimi
+- `data/processed/verified_question_bank.json` — verified question bank
+- `data/processed/relation_frequency_turkiye_subset.csv` — allowed relation list
+- `backend/app.py` — graph retrieval and LLM answer logic
+- `scripts/generate_verified_question_bank.py` — question bank generation pipeline
 
-## 🧩 Önemli Scriptler
+## 🧩 Important Scripts
 
-- `scripts/load_basic_maps.py` — temel varlık ve ilişki haritalarını yükleme
-- `scripts/find_turkey` — Türkiye ile ilgili varlıkları keşfetme
-- `scripts/build_turkiye_general_subset.py` — Türkiye odaklı alt küme oluşturma
-- `scripts/generate_verified_question_bank.py` — doğrulanmış soru bankası üretme
-- `scripts/evaluate_current_system.py` — sistem değerlendirmesi
+- `scripts/load_basic_maps.py` — loads entity and relation maps
+- `scripts/find_turkey` — discovers Turkey-focused entities
+- `scripts/build_turkiye_general_subset.py` — builds the Turkey subset
+- `scripts/generate_verified_question_bank.py` — generates verified QA pairs
+- `scripts/evaluate_current_system.py` — evaluates system performance
 
-## 💡 Kullanım Senaryosu
+## 💡 Use Case
 
-1. Türkiye odaklı Wikidata verileri üzerinden subset çıkarın.
-2. Bu subset üzerinden çok adımlı soru üretin.
-3. Neo4j üzerine veri yükleyin.
-4. FastAPI backend ile soruları sorgulayın.
-5. Frontend üzerinden sonuçları görüntüleyin.
+1. Extract the Turkey subset from Wikidata5M.
+2. Generate QA data from the subset.
+3. Load the data into Neo4j.
+4. Start the FastAPI backend.
+5. Explore results and case studies in the frontend.
 
-## 📘 Notlar
+## 📝 Notes
 
-- Proje, veri ve mantık açısından Türkiye futbolu ve geniş Türkiye ilişkileri üzerine inşa edilmiştir.
-- Backend, grafik sonuçlarını Türkçe olarak daha doğal bir cümleye dönüştürmek için OLLAMA kullanır.
-- React frontend, kullanıcı deneyimi için Vite ile hazırlandı.
+- The frontend pages are defined under `frontend/src/pages`.
+- `CaseStudiesPage` presents both successful and failed examples.
+- The system is designed to support multi-hop reasoning over Turkey-related football, film, and organization data.
 
 ---
 
-## 🎯 Hedef
+## 🎯 Goal
 
-Bu repo, Türkiye odağındaki bilgi grafiği sorularını destekleyen bir RAG sistemi sunar. Hem veri hazırlama hem de soru-cevap aşamaları bu hedefe göre düzenlenmiştir.
+This repository presents a Turkey-focused KG-Infused RAG system. It covers both data preparation and QA inference workflows in separate sections.
 
-Purpose
-
-This phase contains the working implementation of the KG-Infused RAG pipeline.
-
-The repository is organized in a modular way. Each major step of the pipeline is implemented in a separate script or module.
-
-Repository Structure
-kg_infused_rag_project/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   │   ├── wikidata5m_entity.txt
-│   │   ├── wikidata5m_relation.txt
-│   │   └── wikidata5m_text.txt
-│   │
-│   ├── processed/
-│   │   ├── entity_map.json
-│   │   ├── relation_map.json
-│   │   └── generated_questions_pattern_b_filtered.csv
-│   │
-│   └── subset/
-│       └── turkiye_related_subset.csv
-│
-├── scripts/
-│   ├── load_basic_maps.py
-│   ├── find_turkey.py
-│   ├── confirm_turkey.py
-│   ├── extract_football_candidates.py
-│   ├── clean_turkish_football.py
-│   ├── build_turkiye_general_subset.py
-│   ├── generate_verified_question_bank.py
-│   └── generate_comparison_questions.py
-│
-├── backend/
-│   ├── graph_retriever.py
-│   ├── entity_linker.py
-│   ├── question_classifier.py
-│   ├── comparison_handler.py
-│   ├── llm_handler.py
-│   └── answer_generator.py
-│
-├── artifacts/
-│   ├── phase-1/
-│   ├── phase-2/
-│   ├── phase-3/
-│   ├── phase-4/
-│   ├── phase-5/
-│   └── phase-6/
-│
-└── docs/
-    ├── turkiye_entity_analysis_report.md
-    ├── multi_hop_qa_dataset_report.md
-    ├── experiment_results.md
-    └── case_study_report.md
-Main Components
-Component	Purpose
-load_basic_maps.py	Loads entity, relation, and text mappings
-find_turkey.py	Searches for Türkiye-related entities
-confirm_turkey.py	Confirms the Türkiye root entity
-extract_football_candidates.py	Extracts football-related Türkiye entities
-clean_turkish_football.py	Cleans and filters football seed entities
-generate_verified_question_bank.py	Generates verified QA pairs from graph paths
-graph_retriever.py	Retrieves graph paths from Neo4j
-entity_linker.py	Finds the correct KG entity from user question
-question_classifier.py	Detects question type and pattern
-comparison_handler.py	Handles comparison questions
-llm_handler.py	Connects local LLM for answer generation
-answer_generator.py	Produces final graph-grounded answers
-Running the Project
-
-Install requirements:
-
-pip install -r requirements.txt
-
-Run the FastAPI backend:
-
-python -m uvicorn app:app --reload
-
-Generate verified questions:
-
-python scripts/generate_verified_question_bank.py
-
-Generate comparison questions:
-
-python scripts/generate_comparison_questions.py
-Requirements File
-
-The project includes a requirements.txt file containing the necessary Python dependencies.
-
-Example dependencies:
-
-fastapi
-uvicorn
-neo4j
-pandas
-numpy
-requests
-python-dotenv
-8.4 Experiment Results
-
-Related Phase: Phase 5
-
-Purpose
-
-The experiment phase evaluates the performance of the KG-Infused RAG system and compares graph-grounded retrieval with other answering strategies.
-
-Compared Methods
-Method	Description
-Graph-only QA	Answers are extracted directly from Neo4j graph paths
-LLM-only QA	The language model answers without graph grounding
-KG-Infused RAG	Graph retrieval is used first, then the LLM generates a grounded answer
-Fallback LLM	Used only when the graph retrieval cannot find a valid answer
-Evaluation Criteria
-
-The system was evaluated using the following criteria:
-
-Metric	Description
-Answer correctness	Whether the predicted answer matches the gold answer
-Path correctness	Whether the retrieved reasoning path matches the expected graph path
-Entity linking accuracy	Whether the correct entity was selected from the question
-Pattern detection accuracy	Whether the correct question type was detected
-Failure rate	How often the system could not produce an answer
-Explanation quality	Whether the answer includes understandable reasoning
-Observed Results
-
-The graph-based approach performs well on structured factual questions where the entity and relation can be clearly detected.
-
-Strong results were observed for patterns such as:
 
 team_country
 team_league
